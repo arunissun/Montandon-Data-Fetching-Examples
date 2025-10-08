@@ -1,0 +1,2151 @@
+[
+  {
+    "collection": "desinventar-events",
+    "record": null
+  },
+  {
+    "collection": "desinventar-impacts",
+    "record": null
+  },
+  {
+    "collection": "emdat-events",
+    "record": null
+  },
+  {
+    "collection": "emdat-hazards",
+    "record": null
+  },
+  {
+    "collection": "emdat-impacts",
+    "record": null
+  },
+  {
+    "collection": "gdacs-events",
+    "record": null
+  },
+  {
+    "collection": "gdacs-hazards",
+    "record": null
+  },
+  {
+    "collection": "gdacs-impacts",
+    "record": null
+  },
+  {
+    "collection": "gfd-events",
+    "record": null
+  },
+  {
+    "collection": "gfd-hazards",
+    "record": null
+  },
+  {
+    "collection": "gfd-impacts",
+    "record": null
+  },
+  {
+    "collection": "glide-events",
+    "record": null
+  },
+  {
+    "collection": "glide-hazards",
+    "record": null
+  },
+  {
+    "collection": "ibtracs-events",
+    "record": null
+  },
+  {
+    "collection": "ibtracs-hazards",
+    "record": null
+  },
+  {
+    "collection": "idmc-gidd-events",
+    "record": null
+  },
+  {
+    "collection": "idmc-gidd-impacts",
+    "record": null
+  },
+  {
+    "collection": "idmc-idu-events",
+    "record": {
+      "id": "idmc-idu-event-32506",
+      "bbox": [
+        -6.79151,
+        42.485081,
+        -6.79151,
+        42.485081
+      ],
+      "type": "Feature",
+      "links": [
+        {
+          "rel": "collection",
+          "type": "application/json",
+          "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections/idmc-idu-events"
+        },
+        {
+          "rel": "parent",
+          "type": "application/json",
+          "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections/idmc-idu-events"
+        },
+        {
+          "rel": "root",
+          "type": "application/json",
+          "href": "https://montandon-eoapi-stage.ifrc.org/stac/"
+        },
+        {
+          "rel": "self",
+          "type": "application/geo+json",
+          "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections/idmc-idu-events/items/idmc-idu-event-32506"
+        },
+        {
+          "rel": "via",
+          "href": "https://helix-tools-api.idmcdb.org/external-api/idus/last-180-days/",
+          "type": "application/json",
+          "title": "IDU Event Data"
+        }
+      ],
+      "assets": {
+        "report": {
+          "href": "https://www.antena3.com/noticias/sociedad/ultima-hora-incendios-espana-directo-1500-vecinos-desalojados-fuego-avila-pueden-regresar-sus-casas-aunque-sigue-activo_2025081068983f186d08be7a8a4b9b8a.html",
+          "type": "application/pdf",
+          "title": "Report"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.79151,
+          42.485081
+        ]
+      },
+      "collection": "idmc-idu-events",
+      "properties": {
+        "roles": [
+          "source",
+          "event"
+        ],
+        "title": "Spain: Wildfire - Castilla y Leon (region wide) - 10/08/2025",
+        "sources": "Regional government",
+        "datetime": "2025-08-10T00:00:00Z",
+        "location": "Carucedo, El Bierzo, Le\u00f3n, Castile and Le\u00f3n, Spain",
+        "description": " **Spain: 400 displacements (evacuated), 10 August - 10 August**    \n According to the Government Sub-delegation in Le\u00f3n, 400 residents from Carucedo were evacuated by the Civil Guard due to wildfires.   \n [Antena 3 - 10 August 2025](https://www.antena3.com/noticias/sociedad/ultima-hora-incendios-espana-directo-1500-vecinos-desalojados-fuego-avila-pueden-regresar-sus-casas-aunque-sigue-activo_2025081068983f186d08be7a8a4b9b8a.html)",
+        "end_datetime": "2025-08-10T00:00:00Z",
+        "monty:etl_id": "af272e8c-ac7c-48f9-b47f-95ca2c1c7ae8",
+        "monty:corr_id": "20250810-ESP-NAT-CLI-WIL-WIL-1-GCDB",
+        "start_datetime": "2025-08-10T00:00:00Z",
+        "monty:hazard_codes": [
+          "nat-cli-wil-wil"
+        ],
+        "monty:country_codes": [
+          "ESP"
+        ],
+        "monty:episode_number": 1
+      },
+      "stac_version": "1.1.0",
+      "stac_extensions": [
+        "https://ifrcgo.org/monty-stac-extension/v1.0.0/schema.json"
+      ]
+    }
+  },
+  {
+    "collection": "idmc-idu-impacts",
+    "record": {
+      "id": "idmc-idu-impact-32506189656-evacuated",
+      "bbox": [
+        -6.79151,
+        42.485081,
+        -6.79151,
+        42.485081
+      ],
+      "type": "Feature",
+      "links": [
+        {
+          "rel": "collection",
+          "type": "application/json",
+          "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections/idmc-idu-impacts"
+        },
+        {
+          "rel": "parent",
+          "type": "application/json",
+          "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections/idmc-idu-impacts"
+        },
+        {
+          "rel": "root",
+          "type": "application/json",
+          "href": "https://montandon-eoapi-stage.ifrc.org/stac/"
+        },
+        {
+          "rel": "self",
+          "type": "application/geo+json",
+          "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections/idmc-idu-impacts/items/idmc-idu-impact-32506189656-evacuated"
+        },
+        {
+          "rel": "via",
+          "href": "https://helix-tools-api.idmcdb.org/external-api/idus/last-180-days/",
+          "type": "application/json",
+          "title": "IDU Event Data"
+        }
+      ],
+      "assets": {
+        "report": {
+          "href": "https://www.antena3.com/noticias/sociedad/ultima-hora-incendios-espana-directo-1500-vecinos-desalojados-fuego-avila-pueden-regresar-sus-casas-aunque-sigue-activo_2025081068983f186d08be7a8a4b9b8a.html",
+          "type": "application/pdf",
+          "title": "Report"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.79151,
+          42.485081
+        ]
+      },
+      "collection": "idmc-idu-impacts",
+      "properties": {
+        "roles": [
+          "source",
+          "impact"
+        ],
+        "title": "Spain: Wildfire - Castilla y Leon (region wide) - 10/08/2025",
+        "sources": "Regional government",
+        "datetime": "2025-08-10T00:00:00Z",
+        "location": "Carucedo, El Bierzo, Le\u00f3n, Castile and Le\u00f3n, Spain",
+        "description": " **Spain: 400 displacements (evacuated), 10 August - 10 August**    \n According to the Government Sub-delegation in Le\u00f3n, 400 residents from Carucedo were evacuated by the Civil Guard due to wildfires.   \n [Antena 3 - 10 August 2025](https://www.antena3.com/noticias/sociedad/ultima-hora-incendios-espana-directo-1500-vecinos-desalojados-fuego-avila-pueden-regresar-sus-casas-aunque-sigue-activo_2025081068983f186d08be7a8a4b9b8a.html)",
+        "end_datetime": "2025-08-10T00:00:00Z",
+        "monty:etl_id": "a16563d4-55ce-45db-908b-e588fb18ef16",
+        "monty:corr_id": "20250810-ESP-NAT-CLI-WIL-WIL-1-GCDB",
+        "start_datetime": "2025-08-10T00:00:00Z",
+        "monty:hazard_codes": [
+          "nat-cli-wil-wil"
+        ],
+        "monty:country_codes": [
+          "ESP"
+        ],
+        "monty:impact_detail": {
+          "type": "evacuated",
+          "unit": "count",
+          "value": 20,
+          "category": "people",
+          "estimate_type": "primary"
+        },
+        "monty:episode_number": 1
+      },
+      "stac_version": "1.1.0",
+      "stac_extensions": [
+        "https://ifrcgo.org/monty-stac-extension/v1.0.0/schema.json"
+      ]
+    }
+  },
+  {
+    "collection": "ifrcevent-events",
+    "record": null
+  },
+  {
+    "collection": "ifrcevent-hazards",
+    "record": null
+  },
+  {
+    "collection": "ifrcevent-impacts",
+    "record": null
+  },
+  {
+    "collection": "pdc-events",
+    "record": {
+      "id": "pdc-event-c31fbc53-f1d5-4545-9b39-5315dcacbf6a-364434-1755054710651",
+      "bbox": [
+        15.732438653148206,
+        64.34340405513905,
+        15.732438653148206,
+        64.34340405513905
+      ],
+      "type": "Feature",
+      "links": [
+        {
+          "rel": "collection",
+          "type": "application/json",
+          "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections/pdc-events"
+        },
+        {
+          "rel": "parent",
+          "type": "application/json",
+          "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections/pdc-events"
+        },
+        {
+          "rel": "root",
+          "type": "application/json",
+          "href": "https://montandon-eoapi-stage.ifrc.org/stac/"
+        },
+        {
+          "rel": "self",
+          "type": "application/geo+json",
+          "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections/pdc-events/items/pdc-event-c31fbc53-f1d5-4545-9b39-5315dcacbf6a-364434-1755054710651"
+        }
+      ],
+      "assets": {
+        "Maps": {
+          "href": "https://monty-etl-1-minio.ifrc-go.dev.togglecorp.com/montandon-etl-data/media/extract-raw-data/source-pdc/2025-08-26/2_09CWxeq.json?AWSAccessKeyId=monty-etl&Signature=7RTlasuQFBM%2FL0%2BCe0qE7hLYNzU%3D&Expires=1756196970",
+          "type": "geojson",
+          "title": "Polygon"
+        },
+        "report": {
+          "href": "https://hazardbrief.pdc.org/PRODUCTION/ui/index.html?uuid=c31fbc53-f1d5-4545-9b39-5315dcacbf6a",
+          "type": "html",
+          "title": "Report"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.732438653148206,
+          64.34340405513905
+        ]
+      },
+      "collection": "pdc-events",
+      "properties": {
+        "roles": [
+          "source",
+          "event"
+        ],
+        "title": "Flood - Angermanalven Basin, J\u00e4mtland, Sweden",
+        "datetime": "2025-08-12T07:13:41.819000Z",
+        "category_id": "EVENT",
+        "description": "The NASA Global Flood Model has issued a Flood Warning for August 12, 2025, 06:45:47 UTC through August 14, 2025, 03:12:14 UTC for Angermanalven Basin, J\u00e4mtland, Sweden.\nIt is estimated that 5,570 people, 2,610 households, and $961 Million (USD) of infrastructure\\* are within the affected area(s). Exposure estimates will be refined as additional data from official sources becomes available.\n\\*The cost represents the total replacement value of the infrastructure.",
+        "end_datetime": "2025-08-14T03:12:14Z",
+        "monty:etl_id": "a2f5a6ad-5cfe-452a-96d0-1d10705b7d60",
+        "monty:corr_id": "20250812-SWE-NAT-HYD-FLO-FLO--1-GCDB",
+        "start_datetime": "2025-08-12T07:13:41.819000Z",
+        "monty:hazard_codes": [
+          "MH0012",
+          "nat-hyd-flo-flo"
+        ],
+        "monty:country_codes": [
+          "SWE"
+        ],
+        "monty:episode_number": -1
+      },
+      "stac_version": "1.1.0",
+      "stac_extensions": [
+        "https://ifrcgo.org/monty-stac-extension/v1.0.0/schema.json"
+      ]
+    }
+  },
+  {
+    "collection": "pdc-hazards",
+    "record": {
+      "id": "pdc-hazard-c31fbc53-f1d5-4545-9b39-5315dcacbf6a-364434-1755054710651",
+      "bbox": [
+        15.732438653148206,
+        64.34340405513905,
+        15.732438653148206,
+        64.34340405513905
+      ],
+      "type": "Feature",
+      "links": [
+        {
+          "rel": "collection",
+          "type": "application/json",
+          "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections/pdc-hazards"
+        },
+        {
+          "rel": "parent",
+          "type": "application/json",
+          "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections/pdc-hazards"
+        },
+        {
+          "rel": "root",
+          "type": "application/json",
+          "href": "https://montandon-eoapi-stage.ifrc.org/stac/"
+        },
+        {
+          "rel": "self",
+          "type": "application/geo+json",
+          "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections/pdc-hazards/items/pdc-hazard-c31fbc53-f1d5-4545-9b39-5315dcacbf6a-364434-1755054710651"
+        }
+      ],
+      "assets": {
+        "Maps": {
+          "href": "https://monty-etl-1-minio.ifrc-go.dev.togglecorp.com/montandon-etl-data/media/extract-raw-data/source-pdc/2025-08-26/2_09CWxeq.json?AWSAccessKeyId=monty-etl&Signature=7RTlasuQFBM%2FL0%2BCe0qE7hLYNzU%3D&Expires=1756196970",
+          "type": "geojson",
+          "title": "Polygon"
+        },
+        "report": {
+          "href": "https://hazardbrief.pdc.org/PRODUCTION/ui/index.html?uuid=c31fbc53-f1d5-4545-9b39-5315dcacbf6a",
+          "type": "html",
+          "title": "Report"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.732438653148206,
+          64.34340405513905
+        ]
+      },
+      "collection": "pdc-hazards",
+      "properties": {
+        "roles": [
+          "source",
+          "hazard"
+        ],
+        "title": "Flood - Angermanalven Basin, J\u00e4mtland, Sweden",
+        "datetime": "2025-08-12T07:13:41.819000Z",
+        "category_id": "EVENT",
+        "description": "The NASA Global Flood Model has issued a Flood Warning for August 12, 2025, 06:45:47 UTC through August 14, 2025, 03:12:14 UTC for Angermanalven Basin, J\u00e4mtland, Sweden.\nIt is estimated that 5,570 people, 2,610 households, and $961 Million (USD) of infrastructure\\* are within the affected area(s). Exposure estimates will be refined as additional data from official sources becomes available.\n\\*The cost represents the total replacement value of the infrastructure.",
+        "end_datetime": "2025-08-14T03:12:14Z",
+        "monty:etl_id": "fbdecf19-3ea4-4768-a7be-438fe847b06d",
+        "monty:corr_id": "20250812-SWE-NAT-HYD-FLO-FLO--1-GCDB",
+        "start_datetime": "2025-08-12T07:13:41.819000Z",
+        "monty:hazard_codes": [
+          "MH0012",
+          "nat-hyd-flo-flo"
+        ],
+        "monty:country_codes": [
+          "SWE"
+        ],
+        "monty:hazard_detail": {
+          "cluster": "nat-hyd-flo-flo",
+          "estimate_type": "primary",
+          "severity_unit": "PDC Severity Score",
+          "severity_label": "WARNING"
+        },
+        "monty:episode_number": -1
+      },
+      "stac_version": "1.1.0",
+      "stac_extensions": [
+        "https://ifrcgo.org/monty-stac-extension/v1.0.0/schema.json"
+      ]
+    }
+  },
+  {
+    "collection": "pdc-impacts",
+    "record": {
+      "id": "pdc-impact-c31fbc53-f1d5-4545-9b39-5315dcacbf6a-364434-1755054710651--1-population-total-SWE",
+      "bbox": [
+        15.732438653148206,
+        64.34340405513905,
+        15.732438653148206,
+        64.34340405513905
+      ],
+      "type": "Feature",
+      "links": [
+        {
+          "rel": "collection",
+          "type": "application/json",
+          "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections/pdc-impacts"
+        },
+        {
+          "rel": "parent",
+          "type": "application/json",
+          "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections/pdc-impacts"
+        },
+        {
+          "rel": "root",
+          "type": "application/json",
+          "href": "https://montandon-eoapi-stage.ifrc.org/stac/"
+        },
+        {
+          "rel": "self",
+          "type": "application/geo+json",
+          "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections/pdc-impacts/items/pdc-impact-c31fbc53-f1d5-4545-9b39-5315dcacbf6a-364434-1755054710651--1-population-total-SWE"
+        }
+      ],
+      "assets": {
+        "Maps": {
+          "href": "https://monty-etl-1-minio.ifrc-go.dev.togglecorp.com/montandon-etl-data/media/extract-raw-data/source-pdc/2025-08-26/2_09CWxeq.json?AWSAccessKeyId=monty-etl&Signature=7RTlasuQFBM%2FL0%2BCe0qE7hLYNzU%3D&Expires=1756196970",
+          "type": "geojson",
+          "title": "Polygon"
+        },
+        "report": {
+          "href": "https://hazardbrief.pdc.org/PRODUCTION/ui/index.html?uuid=c31fbc53-f1d5-4545-9b39-5315dcacbf6a",
+          "type": "html",
+          "title": "Report"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.732438653148206,
+          64.34340405513905
+        ]
+      },
+      "collection": "pdc-impacts",
+      "properties": {
+        "roles": [
+          "source",
+          "impact"
+        ],
+        "title": "Flood - Angermanalven Basin, J\u00e4mtland, Sweden",
+        "datetime": "2025-08-12T07:13:41.819000Z",
+        "category_id": "EVENT",
+        "description": "The NASA Global Flood Model has issued a Flood Warning for August 12, 2025, 06:45:47 UTC through August 14, 2025, 03:12:14 UTC for Angermanalven Basin, J\u00e4mtland, Sweden.\nIt is estimated that 5,570 people, 2,610 households, and $961 Million (USD) of infrastructure\\* are within the affected area(s). Exposure estimates will be refined as additional data from official sources becomes available.\n\\*The cost represents the total replacement value of the infrastructure.",
+        "end_datetime": "2025-08-14T03:12:14Z",
+        "monty:etl_id": "6c07679b-b4cd-42e2-a86e-9a7a7969b226",
+        "monty:corr_id": "20250812-SWE-NAT-HYD-FLO-FLO--1-GCDB",
+        "start_datetime": "2025-08-12T07:13:41.819000Z",
+        "monty:hazard_codes": [
+          "MH0012",
+          "nat-hyd-flo-flo"
+        ],
+        "monty:country_codes": [
+          "SWE"
+        ],
+        "monty:impact_detail": {
+          "type": "affected_total",
+          "value": 5570.0,
+          "category": "people",
+          "estimate_type": "primary"
+        },
+        "monty:episode_number": -1
+      },
+      "stac_version": "1.1.0",
+      "stac_extensions": [
+        "https://ifrcgo.org/monty-stac-extension/v1.0.0/schema.json"
+      ]
+    }
+  },
+  {
+    "collection": "usgs-events",
+    "record": {
+      "id": "usgs-event-us7000qv13",
+      "bbox": [
+        39.5629,
+        44.3185,
+        39.5629,
+        44.3185
+      ],
+      "type": "Feature",
+      "links": [
+        {
+          "rel": "collection",
+          "type": "application/json",
+          "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections/usgs-events"
+        },
+        {
+          "rel": "parent",
+          "type": "application/json",
+          "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections/usgs-events"
+        },
+        {
+          "rel": "root",
+          "type": "application/json",
+          "href": "https://montandon-eoapi-stage.ifrc.org/stac/"
+        },
+        {
+          "rel": "self",
+          "type": "application/geo+json",
+          "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections/usgs-events/items/usgs-event-us7000qv13"
+        },
+        {
+          "rel": "via",
+          "href": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000qv13&format=geojson",
+          "type": "application/json",
+          "title": "USGS Event Data"
+        }
+      ],
+      "assets": {
+        "source": {
+          "href": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000qv13&format=geojson",
+          "type": "application/geo+json",
+          "roles": [
+            "source"
+          ],
+          "title": "USGS GeoJSON Source"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5629,
+          44.3185
+        ]
+      },
+      "collection": "usgs-events",
+      "properties": {
+        "roles": [
+          "source",
+          "event"
+        ],
+        "title": "M 4.4 - 12 km S of Khadyzhensk, Russia",
+        "datetime": "2025-09-09T16:55:45.339000Z",
+        "eq:depth": "-",
+        "eq:status": "reviewed",
+        "eq:tsunami": false,
+        "description": "12 km S of Khadyzhensk, Russia",
+        "eq:magnitude": 4.4,
+        "monty:etl_id": "307bb28e-1a3e-4a27-bc8d-781db5e3caed",
+        "monty:corr_id": "20250909-TUR-NAT-GEO-EAR-GRO-1-GCDB",
+        "eq:magnitude_type": "mwr",
+        "monty:hazard_codes": [
+          "GH0004"
+        ],
+        "monty:country_codes": [
+          "TUR"
+        ],
+        "monty:episode_number": 1
+      },
+      "stac_version": "1.1.0",
+      "stac_extensions": [
+        "https://ifrcgo.org/monty-stac-extension/v1.0.0/schema.json"
+      ]
+    }
+  },
+  {
+    "collection": "usgs-hazards",
+    "record": {
+      "id": "usgs-hazard-us6000qznb-shakemap",
+      "bbox": [
+        25.8,
+        37.483,
+        30.45,
+        41.1
+      ],
+      "type": "Feature",
+      "links": [
+        {
+          "rel": "collection",
+          "type": "application/json",
+          "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections/usgs-hazards"
+        },
+        {
+          "rel": "parent",
+          "type": "application/json",
+          "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections/usgs-hazards"
+        },
+        {
+          "rel": "root",
+          "type": "application/json",
+          "href": "https://montandon-eoapi-stage.ifrc.org/stac/"
+        },
+        {
+          "rel": "self",
+          "type": "application/geo+json",
+          "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections/usgs-hazards/items/usgs-hazard-us6000qznb-shakemap"
+        },
+        {
+          "rel": "via",
+          "href": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000qznb&format=geojson",
+          "type": "application/json",
+          "title": "USGS Event Data"
+        }
+      ],
+      "assets": {
+        "source": {
+          "href": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000qznb&format=geojson",
+          "type": "application/geo+json",
+          "roles": [
+            "source"
+          ],
+          "title": "USGS GeoJSON Source"
+        },
+        "intensity_map": {
+          "href": "https://earthquake.usgs.gov/product/shakemap/us6000qznb/us/1754948825048/download/pin-thumbnail.png",
+          "type": "image/png",
+          "roles": [
+            "overview"
+          ],
+          "title": "Intensity Map"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25.8,
+              37.483
+            ],
+            [
+              30.45,
+              37.483
+            ],
+            [
+              30.45,
+              41.1
+            ],
+            [
+              25.8,
+              41.1
+            ],
+            [
+              25.8,
+              37.483
+            ]
+          ]
+        ]
+      },
+      "collection": "usgs-hazards",
+      "properties": {
+        "roles": [
+          "source",
+          "hazard"
+        ],
+        "title": "M 6.1 - 10 km SSW of Bigadi\u00e7, Turkey",
+        "eq:felt": 212,
+        "datetime": "2025-08-10T16:53:47.318000Z",
+        "eq:depth": 10.0,
+        "eq:status": "reviewed",
+        "eq:tsunami": false,
+        "description": "10 km SSW of Bigadi\u00e7, Turkey",
+        "eq:magnitude": 6.1,
+        "monty:etl_id": "aff76fbb-fb20-4336-b354-e2c355088eb8",
+        "monty:corr_id": "20250810-SAU-NAT-GEO-EAR-GRO-1-GCDB",
+        "eq:magnitude_type": "mww",
+        "monty:hazard_codes": [
+          "GH0004"
+        ],
+        "monty:country_codes": [
+          "SAU"
+        ],
+        "monty:hazard_detail": {
+          "cluster": "GEO-SEIS",
+          "estimate_type": "primary",
+          "severity_unit": "mww",
+          "severity_value": 6.1
+        },
+        "monty:episode_number": 1
+      },
+      "stac_version": "1.1.0",
+      "stac_extensions": [
+        "https://ifrcgo.org/monty-stac-extension/v1.0.0/schema.json"
+      ]
+    }
+  },
+  {
+    "collection": "usgs-impacts",
+    "record": {
+      "id": "usgs-impact-us6000qznb-fatalities-TR",
+      "bbox": [
+        25.8,
+        37.483,
+        30.45,
+        41.1
+      ],
+      "type": "Feature",
+      "links": [
+        {
+          "rel": "collection",
+          "type": "application/json",
+          "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections/usgs-impacts"
+        },
+        {
+          "rel": "parent",
+          "type": "application/json",
+          "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections/usgs-impacts"
+        },
+        {
+          "rel": "root",
+          "type": "application/json",
+          "href": "https://montandon-eoapi-stage.ifrc.org/stac/"
+        },
+        {
+          "rel": "self",
+          "type": "application/geo+json",
+          "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections/usgs-impacts/items/usgs-impact-us6000qznb-fatalities-TR"
+        },
+        {
+          "rel": "via",
+          "href": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000qznb&format=geojson",
+          "type": "application/json",
+          "title": "USGS Event Data"
+        }
+      ],
+      "assets": {
+        "source": {
+          "href": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000qznb&format=geojson",
+          "type": "application/geo+json",
+          "roles": [
+            "source"
+          ],
+          "title": "USGS GeoJSON Source"
+        },
+        "pager_alert": {
+          "href": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000qznb&format=geojson/alertfatalities.pdf",
+          "type": "application/pdf",
+          "roles": [
+            "data"
+          ],
+          "title": "PAGER Fatalities Alert"
+        },
+        "pager_exposure": {
+          "href": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000qznb&format=geojson/json/exposures.json",
+          "type": "application/json",
+          "roles": [
+            "data"
+          ],
+          "title": "PAGER Exposure Data"
+        },
+        "pager_onepager": {
+          "href": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000qznb&format=geojson/onepager.pdf",
+          "type": "application/pdf",
+          "roles": [
+            "data"
+          ],
+          "title": "PAGER One-Pager Report"
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                29.05555000000004,
+                41.08250000000004
+              ],
+              [
+                29.036250000000052,
+                41.054580000000044
+              ],
+              [
+                28.902490000000057,
+                40.97778000000005
+              ],
+              [
+                28.827180000000055,
+                40.95598000000007
+              ],
+              [
+                28.627770000000055,
+                40.96054000000004
+              ],
+              [
+                28.59916000000004,
+                40.978270000000066
+              ],
+              [
+                28.59833000000009,
+                41.00694000000004
+              ],
+              [
+                28.58278000000007,
+                41.04472000000004
+              ],
+              [
+                28.56222000000008,
+                41.07173000000006
+              ],
+              [
+                28.52708000000007,
+                41.079720000000066
+              ],
+              [
+                28.55326000000008,
+                41.05887000000007
+              ],
+              [
+                28.567780000000084,
+                41.021240000000034
+              ],
+              [
+                28.54188000000005,
+                40.990890000000036
+              ],
+              [
+                28.519300000000044,
+                40.990270000000066
+              ],
+              [
+                28.468050000000062,
+                41.02013000000005
+              ],
+              [
+                28.44805000000008,
+                41.03374000000008
+              ],
+              [
+                28.423470000000066,
+                41.04361000000006
+              ],
+              [
+                28.37611000000004,
+                41.054440000000056
+              ],
+              [
+                28.24278000000004,
+                41.07916000000006
+              ],
+              [
+                28.213050000000067,
+                41.08027000000004
+              ],
+              [
+                28.157910000000072,
+                41.07749000000007
+              ],
+              [
+                28.131940000000043,
+                41.071660000000065
+              ],
+              [
+                28.117230000000063,
+                41.065270000000055
+              ],
+              [
+                28.076530000000048,
+                41.05971000000005
+              ],
+              [
+                27.996940000000052,
+                41.02777000000009
+              ],
+              [
+                27.97951000000006,
+                41.00117000000006
+              ],
+              [
+                27.94208000000009,
+                40.96874000000008
+              ],
+              [
+                27.888050000000078,
+                40.96804000000009
+              ],
+              [
+                27.85528000000005,
+                40.97694000000007
+              ],
+              [
+                27.828050000000076,
+                40.99389000000008
+              ],
+              [
+                27.776530000000037,
+                41.00999000000007
+              ],
+              [
+                27.731940000000066,
+                41.01249000000007
+              ],
+              [
+                27.686110000000042,
+                41.00721000000004
+              ],
+              [
+                27.505340000000047,
+                40.981310000000065
+              ],
+              [
+                27.485140000000058,
+                40.96416000000005
+              ],
+              [
+                27.46055000000007,
+                40.91361000000006
+              ],
+              [
+                27.452500000000043,
+                40.892490000000066
+              ],
+              [
+                27.445550000000082,
+                40.85235000000006
+              ],
+              [
+                27.29153000000008,
+                40.700270000000046
+              ],
+              [
+                27.176660000000084,
+                40.631650000000036
+              ],
+              [
+                27.137380000000064,
+                40.61794000000003
+              ],
+              [
+                27.02028000000007,
+                40.592220000000054
+              ],
+              [
+                26.97055000000006,
+                40.55471000000006
+              ],
+              [
+                26.878330000000062,
+                40.53278000000006
+              ],
+              [
+                26.725410000000068,
+                40.47805000000005
+              ],
+              [
+                26.67992000000004,
+                40.44826000000006
+              ],
+              [
+                26.684930000000065,
+                40.42728000000005
+              ],
+              [
+                26.615000000000066,
+                40.35611000000006
+              ],
+              [
+                26.581660000000056,
+                40.326380000000086
+              ],
+              [
+                26.440270000000055,
+                40.23749000000004
+              ],
+              [
+                26.347500000000082,
+                40.13833000000005
+              ],
+              [
+                26.32194000000004,
+                40.10860000000008
+              ],
+              [
+                26.217910000000074,
+                40.052910000000054
+              ],
+              [
+                26.16441000000009,
+                40.05197000000004
+              ],
+              [
+                26.25986000000006,
+                40.19694000000004
+              ],
+              [
+                26.267640000000085,
+                40.21847000000008
+              ],
+              [
+                26.267010000000084,
+                40.25902000000008
+              ],
+              [
+                26.231670000000065,
+                40.30166000000008
+              ],
+              [
+                26.211590000000058,
+                40.32214000000005
+              ],
+              [
+                26.241940000000056,
+                40.34027000000009
+              ],
+              [
+                26.41805000000005,
+                40.42639000000008
+              ],
+              [
+                26.543160000000057,
+                40.482990000000086
+              ],
+              [
+                26.604720000000043,
+                40.50763000000006
+              ],
+              [
+                26.624990000000082,
+                40.51028000000008
+              ],
+              [
+                26.646660000000054,
+                40.50832000000008
+              ],
+              [
+                26.68291000000005,
+                40.50986000000006
+              ],
+              [
+                26.777220000000057,
+                40.55583000000007
+              ],
+              [
+                26.79750000000007,
+                40.56777000000005
+              ],
+              [
+                26.825830000000053,
+                40.59159000000005
+              ],
+              [
+                26.792910000000063,
+                40.650690000000054
+              ],
+              [
+                26.77374000000009,
+                40.65999000000005
+              ],
+              [
+                26.76389000000006,
+                40.65999000000005
+              ],
+              [
+                26.691940000000045,
+                40.63916000000006
+              ],
+              [
+                26.58027000000004,
+                40.631650000000036
+              ],
+              [
+                26.352770000000078,
+                40.60750000000007
+              ],
+              [
+                26.314860000000067,
+                40.594160000000045
+              ],
+              [
+                26.288880000000063,
+                40.59221000000008
+              ],
+              [
+                26.148610000000076,
+                40.59221000000008
+              ],
+              [
+                26.118610000000047,
+                40.59513000000004
+              ],
+              [
+                26.076100000000054,
+                40.61367000000007
+              ],
+              [
+                26.057360000000074,
+                40.65360000000004
+              ],
+              [
+                26.04472000000004,
+                40.73583000000008
+              ],
+              [
+                26.059510000000046,
+                40.73426000000006
+              ],
+              [
+                26.090550000000064,
+                40.73611000000005
+              ],
+              [
+                26.120200000000068,
+                40.747700000000066
+              ],
+              [
+                26.173330000000078,
+                40.818610000000035
+              ],
+              [
+                26.213610000000074,
+                40.87721000000005
+              ],
+              [
+                26.25111000000004,
+                40.888610000000085
+              ],
+              [
+                26.28750000000008,
+                40.90193000000005
+              ],
+              [
+                26.36041000000006,
+                40.95388000000008
+              ],
+              [
+                26.37298000000004,
+                41.027360000000044
+              ],
+              [
+                26.323890000000063,
+                41.09304000000009
+              ],
+              [
+                26.323944532364006,
+                41.1
+              ],
+              [
+                29.061083119921243,
+                41.1
+              ],
+              [
+                29.05555000000004,
+                41.08250000000004
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                27.211520000000064,
+                37.58722000000006
+              ],
+              [
+                27.193890000000067,
+                37.60444000000007
+              ],
+              [
+                27.225280000000055,
+                37.71249000000006
+              ],
+              [
+                27.247910000000047,
+                37.74055000000004
+              ],
+              [
+                27.263050000000078,
+                37.803190000000086
+              ],
+              [
+                27.261660000000063,
+                37.88444000000004
+              ],
+              [
+                27.26597000000004,
+                37.89041000000009
+              ],
+              [
+                27.274020000000064,
+                37.92561000000006
+              ],
+              [
+                27.26833000000005,
+                37.95360000000005
+              ],
+              [
+                27.24375000000009,
+                37.97756000000004
+              ],
+              [
+                26.97930000000008,
+                38.06637000000006
+              ],
+              [
+                26.923050000000046,
+                38.06222000000008
+              ],
+              [
+                26.818050000000085,
+                38.15527000000009
+              ],
+              [
+                26.76326000000006,
+                38.21298000000007
+              ],
+              [
+                26.681110000000047,
+                38.201650000000086
+              ],
+              [
+                26.625830000000065,
+                38.14888000000008
+              ],
+              [
+                26.608750000000043,
+                38.102640000000065
+              ],
+              [
+                26.588470000000086,
+                38.10194000000007
+              ],
+              [
+                26.54556000000008,
+                38.11638000000005
+              ],
+              [
+                26.488890000000083,
+                38.172210000000064
+              ],
+              [
+                26.429580000000044,
+                38.21471000000008
+              ],
+              [
+                26.358610000000056,
+                38.22416000000004
+              ],
+              [
+                26.335270000000037,
+                38.22485000000006
+              ],
+              [
+                26.316110000000037,
+                38.23277000000007
+              ],
+              [
+                26.27583000000004,
+                38.26443000000006
+              ],
+              [
+                26.27500000000009,
+                38.28555000000006
+              ],
+              [
+                26.284160000000043,
+                38.345830000000035
+              ],
+              [
+                26.28902000000005,
+                38.36749000000009
+              ],
+              [
+                26.316250000000082,
+                38.37388000000004
+              ],
+              [
+                26.322080000000085,
+                38.341170000000034
+              ],
+              [
+                26.351380000000063,
+                38.31499000000008
+              ],
+              [
+                26.369440000000054,
+                38.30611000000005
+              ],
+              [
+                26.37472000000008,
+                38.30555000000004
+              ],
+              [
+                26.45013000000006,
+                38.34541000000007
+              ],
+              [
+                26.470000000000084,
+                38.36180000000007
+              ],
+              [
+                26.499160000000074,
+                38.400270000000035
+              ],
+              [
+                26.50986000000006,
+                38.42548000000005
+              ],
+              [
+                26.478470000000073,
+                38.44903000000005
+              ],
+              [
+                26.420690000000036,
+                38.46506000000005
+              ],
+              [
+                26.38812000000007,
+                38.447010000000034
+              ],
+              [
+                26.35833000000008,
+                38.56638000000004
+              ],
+              [
+                26.34791000000007,
+                38.62388000000004
+              ],
+              [
+                26.357980000000055,
+                38.65479000000005
+              ],
+              [
+                26.398330000000044,
+                38.66694000000007
+              ],
+              [
+                26.428330000000074,
+                38.67083000000008
+              ],
+              [
+                26.481250000000045,
+                38.667350000000056
+              ],
+              [
+                26.523600000000044,
+                38.63304000000005
+              ],
+              [
+                26.563330000000065,
+                38.59832000000006
+              ],
+              [
+                26.612220000000036,
+                38.52971000000008
+              ],
+              [
+                26.629440000000045,
+                38.458060000000046
+              ],
+              [
+                26.59555000000006,
+                38.453050000000076
+              ],
+              [
+                26.64791000000008,
+                38.333330000000046
+              ],
+              [
+                26.691800000000057,
+                38.31086000000005
+              ],
+              [
+                26.79305000000005,
+                38.353600000000085
+              ],
+              [
+                26.835000000000036,
+                38.36555000000004
+              ],
+              [
+                27.095000000000084,
+                38.39999000000006
+              ],
+              [
+                27.119300000000067,
+                38.41055000000006
+              ],
+              [
+                27.156450000000063,
+                38.45280000000008
+              ],
+              [
+                27.04319000000004,
+                38.461100000000044
+              ],
+              [
+                26.994230000000073,
+                38.45312000000007
+              ],
+              [
+                26.947220000000073,
+                38.441670000000045
+              ],
+              [
+                26.753330000000062,
+                38.61999000000009
+              ],
+              [
+                26.733750000000043,
+                38.641940000000034
+              ],
+              [
+                26.727770000000078,
+                38.724500000000035
+              ],
+              [
+                26.82541000000009,
+                38.75430000000006
+              ],
+              [
+                26.90041000000008,
+                38.815270000000055
+              ],
+              [
+                27.06298000000004,
+                38.87319000000008
+              ],
+              [
+                27.052770000000066,
+                38.92666000000008
+              ],
+              [
+                26.95652000000007,
+                38.93721000000005
+              ],
+              [
+                26.92041000000006,
+                38.93277000000006
+              ],
+              [
+                26.86125000000004,
+                38.910060000000044
+              ],
+              [
+                26.801660000000084,
+                38.955820000000074
+              ],
+              [
+                26.794650000000047,
+                38.98311000000007
+              ],
+              [
+                26.797640000000058,
+                39.02388000000008
+              ],
+              [
+                26.88104000000004,
+                39.06846000000007
+              ],
+              [
+                26.869720000000086,
+                39.09791000000007
+              ],
+              [
+                26.846390000000042,
+                39.129860000000065
+              ],
+              [
+                26.81305000000009,
+                39.156660000000045
+              ],
+              [
+                26.75933000000009,
+                39.173260000000084
+              ],
+              [
+                26.728890000000035,
+                39.22138000000007
+              ],
+              [
+                26.644720000000063,
+                39.26305000000008
+              ],
+              [
+                26.664990000000046,
+                39.301100000000076
+              ],
+              [
+                26.811380000000042,
+                39.39889000000005
+              ],
+              [
+                26.89500000000004,
+                39.474150000000066
+              ],
+              [
+                26.937150000000088,
+                39.48332000000005
+              ],
+              [
+                26.95180000000005,
+                39.550820000000044
+              ],
+              [
+                26.935130000000072,
+                39.57555000000008
+              ],
+              [
+                26.881940000000043,
+                39.57645000000008
+              ],
+              [
+                26.817490000000078,
+                39.561660000000074
+              ],
+              [
+                26.761660000000063,
+                39.55611000000005
+              ],
+              [
+                26.66972000000004,
+                39.55499000000009
+              ],
+              [
+                26.581390000000056,
+                39.534710000000075
+              ],
+              [
+                26.538610000000062,
+                39.52971000000008
+              ],
+              [
+                26.20506000000006,
+                39.46270000000004
+              ],
+              [
+                26.130970000000048,
+                39.453050000000076
+              ],
+              [
+                26.10999000000004,
+                39.45763000000005
+              ],
+              [
+                26.07054000000005,
+                39.48266000000007
+              ],
+              [
+                26.104440000000068,
+                39.58638000000008
+              ],
+              [
+                26.133330000000058,
+                39.60777000000007
+              ],
+              [
+                26.154860000000042,
+                39.63263000000006
+              ],
+              [
+                26.160280000000057,
+                39.65610000000004
+              ],
+              [
+                26.163050000000055,
+                39.68638000000004
+              ],
+              [
+                26.15805000000006,
+                39.82138000000003
+              ],
+              [
+                26.15020000000004,
+                39.908670000000086
+              ],
+              [
+                26.157500000000084,
+                39.946660000000065
+              ],
+              [
+                26.174720000000036,
+                39.97944000000007
+              ],
+              [
+                26.19736000000006,
+                40.00284000000005
+              ],
+              [
+                26.225410000000068,
+                39.99826000000007
+              ],
+              [
+                26.248880000000042,
+                39.991100000000074
+              ],
+              [
+                26.289720000000045,
+                40.00527000000005
+              ],
+              [
+                26.33305000000007,
+                40.02464000000003
+              ],
+              [
+                26.384720000000073,
+                40.10248000000007
+              ],
+              [
+                26.398610000000076,
+                40.13999000000007
+              ],
+              [
+                26.438330000000065,
+                40.192360000000065
+              ],
+              [
+                26.514030000000048,
+                40.216240000000084
+              ],
+              [
+                26.609860000000083,
+                40.284440000000075
+              ],
+              [
+                26.68402000000009,
+                40.34776000000005
+              ],
+              [
+                26.704300000000046,
+                40.37888000000004
+              ],
+              [
+                26.81000000000006,
+                40.39582000000007
+              ],
+              [
+                26.88694000000004,
+                40.39555000000007
+              ],
+              [
+                26.96250000000009,
+                40.38291000000004
+              ],
+              [
+                27.02666000000005,
+                40.39110000000005
+              ],
+              [
+                27.05708000000004,
+                40.42590000000007
+              ],
+              [
+                27.08680000000004,
+                40.447620000000086
+              ],
+              [
+                27.118610000000047,
+                40.452770000000044
+              ],
+              [
+                27.26416000000006,
+                40.45861000000008
+              ],
+              [
+                27.298880000000054,
+                40.40555000000006
+              ],
+              [
+                27.30639000000008,
+                40.38499000000007
+              ],
+              [
+                27.394580000000076,
+                40.33971000000008
+              ],
+              [
+                27.42916000000008,
+                40.32416000000006
+              ],
+              [
+                27.511660000000063,
+                40.30555000000004
+              ],
+              [
+                27.558610000000044,
+                40.30472000000009
+              ],
+              [
+                27.575020000000052,
+                40.313270000000045
+              ],
+              [
+                27.678330000000074,
+                40.30944000000005
+              ],
+              [
+                27.74111000000005,
+                40.31000000000006
+              ],
+              [
+                27.780140000000074,
+                40.31513000000007
+              ],
+              [
+                27.87784000000005,
+                40.375860000000046
+              ],
+              [
+                27.831530000000043,
+                40.39722000000006
+              ],
+              [
+                27.79461000000009,
+                40.392100000000084
+              ],
+              [
+                27.687080000000037,
+                40.49270000000007
+              ],
+              [
+                27.72333000000009,
+                40.522080000000074
+              ],
+              [
+                27.754860000000065,
+                40.529720000000054
+              ],
+              [
+                27.856940000000066,
+                40.52249000000006
+              ],
+              [
+                28.02013000000005,
+                40.487700000000075
+              ],
+              [
+                28.027630000000045,
+                40.46305000000007
+              ],
+              [
+                28.00111000000004,
+                40.442210000000046
+              ],
+              [
+                27.927770000000066,
+                40.41194000000007
+              ],
+              [
+                27.900760000000048,
+                40.38867000000005
+              ],
+              [
+                27.92375000000004,
+                40.36471000000006
+              ],
+              [
+                27.953190000000063,
+                40.356930000000034
+              ],
+              [
+                28.03583000000009,
+                40.36916000000008
+              ],
+              [
+                28.10958000000005,
+                40.38958000000008
+              ],
+              [
+                28.15361000000007,
+                40.39638000000008
+              ],
+              [
+                28.18569000000008,
+                40.39776000000006
+              ],
+              [
+                28.203880000000083,
+                40.394070000000056
+              ],
+              [
+                28.246660000000077,
+                40.40346000000005
+              ],
+              [
+                28.509160000000065,
+                40.39527000000004
+              ],
+              [
+                28.67444000000006,
+                40.363600000000076
+              ],
+              [
+                28.755130000000065,
+                40.39152000000007
+              ],
+              [
+                28.791390000000035,
+                40.39486000000005
+              ],
+              [
+                28.829720000000066,
+                40.39193000000006
+              ],
+              [
+                28.88396000000006,
+                40.37943000000007
+              ],
+              [
+                28.916660000000036,
+                40.36249000000004
+              ],
+              [
+                28.93722000000008,
+                40.35944000000006
+              ],
+              [
+                28.98222000000004,
+                40.35707000000008
+              ],
+              [
+                29.055760000000078,
+                40.36680000000007
+              ],
+              [
+                29.14169000000004,
+                40.437910000000045
+              ],
+              [
+                29.08000000000004,
+                40.47763000000003
+              ],
+              [
+                29.026520000000062,
+                40.48006000000004
+              ],
+              [
+                28.975340000000074,
+                40.46298000000007
+              ],
+              [
+                28.91486000000009,
+                40.46888000000007
+              ],
+              [
+                28.89194000000009,
+                40.47694000000007
+              ],
+              [
+                28.776730000000043,
+                40.52708000000007
+              ],
+              [
+                28.80583000000007,
+                40.55812000000009
+              ],
+              [
+                28.852490000000046,
+                40.57556000000005
+              ],
+              [
+                28.909840000000088,
+                40.59311000000008
+              ],
+              [
+                28.95527000000004,
+                40.62472000000008
+              ],
+              [
+                28.980410000000063,
+                40.63957000000005
+              ],
+              [
+                29.00139000000007,
+                40.64388000000008
+              ],
+              [
+                29.154720000000054,
+                40.65749000000005
+              ],
+              [
+                29.251660000000072,
+                40.66249000000005
+              ],
+              [
+                29.39229000000006,
+                40.702210000000036
+              ],
+              [
+                29.42399000000006,
+                40.685800000000086
+              ],
+              [
+                29.479440000000068,
+                40.72028000000006
+              ],
+              [
+                29.510690000000068,
+                40.731520000000046
+              ],
+              [
+                29.554020000000037,
+                40.68617000000006
+              ],
+              [
+                29.701490000000035,
+                40.70501000000007
+              ],
+              [
+                29.901530000000037,
+                40.71291000000008
+              ],
+              [
+                29.93396000000007,
+                40.722210000000075
+              ],
+              [
+                29.937500000000057,
+                40.75222000000008
+              ],
+              [
+                29.916940000000068,
+                40.76166000000006
+              ],
+              [
+                29.726110000000062,
+                40.77222000000006
+              ],
+              [
+                29.591660000000047,
+                40.77555000000007
+              ],
+              [
+                29.56222000000008,
+                40.77111000000008
+              ],
+              [
+                29.518060000000048,
+                40.769160000000056
+              ],
+              [
+                29.412490000000048,
+                40.76972000000006
+              ],
+              [
+                29.33666000000005,
+                40.80708000000004
+              ],
+              [
+                29.290280000000052,
+                40.84805000000006
+              ],
+              [
+                29.254990000000078,
+                40.86833000000007
+              ],
+              [
+                29.149440000000084,
+                40.90304000000003
+              ],
+              [
+                29.129440000000045,
+                40.91444000000007
+              ],
+              [
+                29.043330000000083,
+                40.97306000000009
+              ],
+              [
+                29.025550000000067,
+                41.03443000000004
+              ],
+              [
+                29.04183000000006,
+                41.05129000000005
+              ],
+              [
+                29.07539092232288,
+                41.1
+              ],
+              [
+                30.45,
+                41.1
+              ],
+              [
+                30.45,
+                37.483
+              ],
+              [
+                27.223086781982666,
+                37.483
+              ],
+              [
+                27.211520000000064,
+                37.58722000000006
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                27.601660000000038,
+                40.57194000000004
+              ],
+              [
+                27.55361000000005,
+                40.586940000000084
+              ],
+              [
+                27.52923000000004,
+                40.60180000000008
+              ],
+              [
+                27.526520000000062,
+                40.640130000000056
+              ],
+              [
+                27.53264000000007,
+                40.649440000000084
+              ],
+              [
+                27.545970000000068,
+                40.654990000000055
+              ],
+              [
+                27.615000000000066,
+                40.65888000000007
+              ],
+              [
+                27.651110000000074,
+                40.65722000000005
+              ],
+              [
+                27.706950000000063,
+                40.64999000000006
+              ],
+              [
+                27.733540000000062,
+                40.635410000000036
+              ],
+              [
+                27.73305000000005,
+                40.62221000000005
+              ],
+              [
+                27.71986000000004,
+                40.61402000000004
+              ],
+              [
+                27.609300000000076,
+                40.57277000000005
+              ],
+              [
+                27.601660000000038,
+                40.57194000000004
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                25.8,
+                40.09835791096265
+              ],
+              [
+                25.8,
+                40.21616622185619
+              ],
+              [
+                25.940550000000087,
+                40.239990000000034
+              ],
+              [
+                26.01243000000005,
+                40.15402000000006
+              ],
+              [
+                25.990000000000066,
+                40.12888000000004
+              ],
+              [
+                25.95805000000007,
+                40.12110000000007
+              ],
+              [
+                25.82444000000004,
+                40.10026000000005
+              ],
+              [
+                25.8,
+                40.09835791096265
+              ]
+            ]
+          ]
+        ]
+      },
+      "collection": "usgs-impacts",
+      "properties": {
+        "roles": [
+          "source",
+          "impact"
+        ],
+        "title": "Estimated Fatalities for M 6.1 - 10 km SSW of Bigadi\u00e7, Turkey",
+        "eq:felt": 212,
+        "datetime": "2025-08-10T16:53:47.318000Z",
+        "eq:depth": 10.0,
+        "eq:status": "reviewed",
+        "eq:tsunami": false,
+        "description": "PAGER estimated fatalities for M 6.1 - 10 km SSW of Bigadi\u00e7, Turkey",
+        "eq:magnitude": 6.1,
+        "monty:etl_id": "e7189c83-6081-452b-9b4e-f0c1eec69dd3",
+        "monty:corr_id": "20250810-SAU-NAT-GEO-EAR-GRO-1-GCDB",
+        "eq:magnitude_type": "mww",
+        "monty:hazard_codes": [
+          "GH0004"
+        ],
+        "monty:country_codes": [
+          "TUR"
+        ],
+        "monty:impact_detail": {
+          "type": "death",
+          "unit": "people",
+          "value": 51,
+          "category": "people",
+          "estimate_type": "modelled"
+        },
+        "monty:episode_number": 1
+      },
+      "stac_version": "1.1.0",
+      "stac_extensions": [
+        "https://ifrcgo.org/monty-stac-extension/v1.0.0/schema.json"
+      ]
+    }
+  }
+]

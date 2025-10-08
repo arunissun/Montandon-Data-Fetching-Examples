@@ -1,0 +1,1226 @@
+{
+    "collections": [
+        {
+            "id": "ifrcevent-hazards",
+            "type": "Collection",
+            "links": [
+                {
+                    "rel": "items",
+                    "type": "application/geo+json",
+                    "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections/ifrcevent-hazards/items"
+                },
+                {
+                    "rel": "parent",
+                    "type": "application/json",
+                    "href": "https://montandon-eoapi-stage.ifrc.org/stac/"
+                },
+                {
+                    "rel": "root",
+                    "type": "application/json",
+                    "href": "https://montandon-eoapi-stage.ifrc.org/stac/"
+                },
+                {
+                    "rel": "self",
+                    "type": "application/json",
+                    "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections/ifrcevent-hazards"
+                },
+                {
+                    "rel": "http://www.opengis.net/def/rel/ogc/1.0/queryables",
+                    "type": "application/schema+json",
+                    "title": "Queryables",
+                    "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections/ifrcevent-hazards/queryables"
+                }
+            ],
+            "roles": [
+                "source",
+                "hazard"
+            ],
+            "title": "IFRC Source Hazards",
+            "extent": {
+                "spatial": {
+                    "bbox": [
+                        [
+                            -180,
+                            -90,
+                            180,
+                            90
+                        ]
+                    ]
+                },
+                "temporal": {
+                    "interval": [
+                        [
+                            "2000-01-01T00:00:00Z",
+                            null
+                        ]
+                    ]
+                }
+            },
+            "license": "unknown",
+            "providers": [
+                {
+                    "url": "https://go.ifrc.org/",
+                    "name": "IFRC-Event",
+                    "roles": [
+                        "producer"
+                    ]
+                }
+            ],
+            "summaries": {
+                "roles": [
+                    "source",
+                    "hazard"
+                ],
+                "datetime": {
+                    "maximum": "2019-07-10T13:44:56Z",
+                    "minimum": "2015-06-23T00:00:00Z"
+                },
+                "monty:hazard_codes": [
+                    "GH0001",
+                    "GH0002",
+                    "GH0004"
+                ],
+                "monty:country_codes": [
+                    "CHN",
+                    "SPN"
+                ]
+            },
+            "description": "A collection of IFRC source events loaded into Monty",
+            "stac_version": "1.0.0",
+            "stac_extensions": [
+                "https://ifrcgo.github.io/monty/v0.1.0/schema.json"
+            ]
+        },
+        {
+            "id": "ifrcevent-impacts",
+            "type": "Collection",
+            "links": [
+                {
+                    "rel": "items",
+                    "type": "application/geo+json",
+                    "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections/ifrcevent-impacts/items"
+                },
+                {
+                    "rel": "parent",
+                    "type": "application/json",
+                    "href": "https://montandon-eoapi-stage.ifrc.org/stac/"
+                },
+                {
+                    "rel": "root",
+                    "type": "application/json",
+                    "href": "https://montandon-eoapi-stage.ifrc.org/stac/"
+                },
+                {
+                    "rel": "self",
+                    "type": "application/json",
+                    "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections/ifrcevent-impacts"
+                },
+                {
+                    "rel": "http://www.opengis.net/def/rel/ogc/1.0/queryables",
+                    "type": "application/schema+json",
+                    "title": "Queryables",
+                    "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections/ifrcevent-impacts/queryables"
+                }
+            ],
+            "roles": [
+                "source",
+                "impact"
+            ],
+            "title": "IFRC Source Impacts",
+            "extent": {
+                "spatial": {
+                    "bbox": [
+                        [
+                            -180,
+                            -90,
+                            180,
+                            90
+                        ]
+                    ]
+                },
+                "temporal": {
+                    "interval": [
+                        [
+                            "2000-01-01T00:00:00Z",
+                            null
+                        ]
+                    ]
+                }
+            },
+            "license": "unknown",
+            "providers": [
+                {
+                    "url": "https://go.ifrc.org/",
+                    "name": "IFRC-Event",
+                    "roles": [
+                        "producer"
+                    ]
+                }
+            ],
+            "summaries": {
+                "roles": [
+                    "source",
+                    "impact"
+                ],
+                "datetime": {
+                    "maximum": "2019-07-10T13:44:56Z",
+                    "minimum": "2015-06-23T00:00:00Z"
+                },
+                "monty:hazard_codes": [
+                    "GH0001",
+                    "GH0002",
+                    "GH0004"
+                ],
+                "monty:country_codes": [
+                    "CHN",
+                    "SPN"
+                ]
+            },
+            "description": "A collection of IFRC source events loaded into Monty",
+            "stac_version": "1.0.0",
+            "stac_extensions": [
+                "https://ifrcgo.github.io/monty/v0.1.0/schema.json"
+            ]
+        },
+        {
+            "id": "pdc-events",
+            "type": "Collection",
+            "links": [
+                {
+                    "rel": "items",
+                    "type": "application/geo+json",
+                    "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections/pdc-events/items"
+                },
+                {
+                    "rel": "parent",
+                    "type": "application/json",
+                    "href": "https://montandon-eoapi-stage.ifrc.org/stac/"
+                },
+                {
+                    "rel": "root",
+                    "type": "application/json",
+                    "href": "https://montandon-eoapi-stage.ifrc.org/stac/"
+                },
+                {
+                    "rel": "self",
+                    "type": "application/json",
+                    "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections/pdc-events"
+                },
+                {
+                    "rel": "describedby",
+                    "href": "https://github.com/IFRCGo/monty-stac-extension/tree/main/model/sources/PDC#event-item",
+                    "type": "text/html",
+                    "title": "PDC Event Item Source Mappings"
+                },
+                {
+                    "rel": "http://www.opengis.net/def/rel/ogc/1.0/queryables",
+                    "type": "application/schema+json",
+                    "title": "Queryables",
+                    "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections/pdc-events/queryables"
+                }
+            ],
+            "roles": [
+                "event",
+                "source"
+            ],
+            "title": "PDC Source Events",
+            "assets": {
+                "thumbnail": {
+                    "href": "https://edit.uia.org/img/org_logos/XG9728.jpg",
+                    "type": "image/jpeg",
+                    "roles": [
+                        "thumbnail"
+                    ],
+                    "title": "Pacific Disaster Center Logo"
+                }
+            },
+            "extent": {
+                "spatial": {
+                    "bbox": [
+                        [
+                            -180,
+                            -90,
+                            180,
+                            90
+                        ]
+                    ]
+                },
+                "temporal": {
+                    "interval": [
+                        [
+                            "2008-01-01T00:00:00Z",
+                            null
+                        ]
+                    ]
+                }
+            },
+            "license": "TBD",
+            "providers": [
+                {
+                    "url": "https://www.pdc.org",
+                    "name": "Pacific Disaster Center",
+                    "roles": [
+                        "producer"
+                    ]
+                }
+            ],
+            "summaries": {
+                "roles": [
+                    "event",
+                    "source"
+                ],
+                "datetime": {
+                    "maximum": "2025-01-23T00:00:00Z",
+                    "minimum": "2008-01-01T00:00:00Z"
+                },
+                "monty:hazard_codes": [
+                    "nat-met-sto-tro"
+                ],
+                "monty:country_codes": [
+                    "IDN"
+                ]
+            },
+            "description": "Events from the Pacific Disaster Center (PDC). PDC tracks a wide range of natural and human-made hazards including tropical cyclones, earthquakes, floods, landslides, wildfires, droughts, and volcanic eruptions to support disaster preparedness, response, and risk reduction efforts. Each event includes information about the hazard type, location, and temporal details. More information on the PDC mapping in Monty can be found in the [PDC Event Source Mappings](https://github.com/IFRCGo/monty-stac-extension/tree/main/model/sources/PDC#event-item).",
+            "stac_version": "1.0.0",
+            "stac_extensions": [
+                "https://ifrcgo.github.io/monty/v0.1.0/schema.json"
+            ]
+        },
+        {
+            "id": "pdc-hazards",
+            "type": "Collection",
+            "links": [
+                {
+                    "rel": "items",
+                    "type": "application/geo+json",
+                    "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections/pdc-hazards/items"
+                },
+                {
+                    "rel": "parent",
+                    "type": "application/json",
+                    "href": "https://montandon-eoapi-stage.ifrc.org/stac/"
+                },
+                {
+                    "rel": "root",
+                    "type": "application/json",
+                    "href": "https://montandon-eoapi-stage.ifrc.org/stac/"
+                },
+                {
+                    "rel": "self",
+                    "type": "application/json",
+                    "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections/pdc-hazards"
+                },
+                {
+                    "rel": "describedby",
+                    "href": "https://github.com/IFRCGo/monty-stac-extension/tree/main/model/sources/PDC#hazard-item",
+                    "type": "text/html",
+                    "title": "PDC Hazard Item Source Mappings"
+                },
+                {
+                    "rel": "http://www.opengis.net/def/rel/ogc/1.0/queryables",
+                    "type": "application/schema+json",
+                    "title": "Queryables",
+                    "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections/pdc-hazards/queryables"
+                }
+            ],
+            "roles": [
+                "source",
+                "hazard"
+            ],
+            "title": "PDC Source Hazards",
+            "assets": {
+                "thumbnail": {
+                    "href": "https://edit.uia.org/img/org_logos/XG9728.jpg",
+                    "type": "image/jpeg",
+                    "roles": [
+                        "thumbnail"
+                    ],
+                    "title": "Pacific Disaster Center Logo"
+                }
+            },
+            "extent": {
+                "spatial": {
+                    "bbox": [
+                        [
+                            -180,
+                            -90,
+                            180,
+                            90
+                        ]
+                    ]
+                },
+                "temporal": {
+                    "interval": [
+                        [
+                            "2000-01-01T00:00:00Z",
+                            null
+                        ]
+                    ]
+                }
+            },
+            "license": "unknown",
+            "providers": [
+                {
+                    "url": "https://www.pdc.org",
+                    "name": "Pacific Disaster Center",
+                    "roles": [
+                        "producer"
+                    ]
+                }
+            ],
+            "summaries": {
+                "roles": [
+                    "source",
+                    "hazard"
+                ],
+                "datetime": {
+                    "maximum": "2019-07-10T13:44:56Z",
+                    "minimum": "2015-06-23T00:00:00Z"
+                },
+                "monty:hazard_codes": [
+                    "GH0001",
+                    "GH0002",
+                    "GH0004"
+                ],
+                "monty:country_codes": [
+                    "CHN",
+                    "SPN"
+                ]
+            },
+            "description": "Hazard records from the Pacific Disaster Center (PDC). PDC tracks a wide range of natural and human-made hazards including tropical cyclones, earthquakes, floods, landslides, wildfires, droughts, and volcanic eruptions to support disaster preparedness, response, and risk reduction efforts. The hazard records provide detailed information about hazard characteristics including severity, extent, and potential impacts. Each hazard record is derived from PDC's exposure analysis and includes information about the affected areas. More information on the PDC mapping in Monty can be found in the [PDC Hazard Source Mappings](https://github.com/IFRCGo/monty-stac-extension/tree/main/model/sources/PDC#hazard-item).",
+            "stac_version": "1.0.0",
+            "stac_extensions": [
+                "https://ifrcgo.github.io/monty/v0.1.0/schema.json"
+            ]
+        },
+        {
+            "id": "pdc-impacts",
+            "type": "Collection",
+            "links": [
+                {
+                    "rel": "items",
+                    "type": "application/geo+json",
+                    "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections/pdc-impacts/items"
+                },
+                {
+                    "rel": "parent",
+                    "type": "application/json",
+                    "href": "https://montandon-eoapi-stage.ifrc.org/stac/"
+                },
+                {
+                    "rel": "root",
+                    "type": "application/json",
+                    "href": "https://montandon-eoapi-stage.ifrc.org/stac/"
+                },
+                {
+                    "rel": "self",
+                    "type": "application/json",
+                    "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections/pdc-impacts"
+                },
+                {
+                    "rel": "describedby",
+                    "href": "https://github.com/IFRCGo/monty-stac-extension/tree/main/model/sources/PDC#impact-item",
+                    "type": "text/html",
+                    "title": "PDC Impact Item Source Mappings"
+                },
+                {
+                    "rel": "http://www.opengis.net/def/rel/ogc/1.0/queryables",
+                    "type": "application/schema+json",
+                    "title": "Queryables",
+                    "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections/pdc-impacts/queryables"
+                }
+            ],
+            "roles": [
+                "impact",
+                "source"
+            ],
+            "title": "PDC Impacts",
+            "assets": {
+                "thumbnail": {
+                    "href": "https://edit.uia.org/img/org_logos/XG9728.jpg",
+                    "type": "image/jpeg",
+                    "roles": [
+                        "thumbnail"
+                    ],
+                    "title": "Pacific Disaster Center Logo"
+                }
+            },
+            "extent": {
+                "spatial": {
+                    "bbox": [
+                        [
+                            -180,
+                            -90,
+                            180,
+                            90
+                        ]
+                    ]
+                },
+                "temporal": {
+                    "interval": [
+                        [
+                            "2024-01-01T00:00:00Z",
+                            null
+                        ]
+                    ]
+                }
+            },
+            "license": "TBD",
+            "providers": [
+                {
+                    "url": "https://www.pdc.org",
+                    "name": "Pacific Disaster Center",
+                    "roles": [
+                        "producer"
+                    ]
+                }
+            ],
+            "summaries": {
+                "monty:hazard_codes": [
+                    "nat-cli-wil-for"
+                ],
+                "monty:country_codes": [
+                    "ESP"
+                ]
+            },
+            "description": "Impact records from the Pacific Disaster Center (PDC). PDC tracks a wide range of natural and human-made hazards and provides detailed impact assessments to support disaster preparedness, response, and risk reduction efforts. The impact records provide comprehensive information about the human and economic consequences of disasters, including affected populations by age group, households, capital losses, and impacts on critical infrastructure such as schools and hospitals. Each impact record is derived from PDC's exposure analysis and includes quantitative measurements with standardized units. More information on the PDC mapping in Monty can be found in the [PDC Impact Source Mappings](https://github.com/IFRCGo/monty-stac-extension/tree/main/model/sources/PDC#impact-item).",
+            "stac_version": "1.0.0",
+            "stac_extensions": [
+                "https://ifrcgo.github.io/monty/v0.1.0/schema.json"
+            ]
+        },
+        {
+            "id": "reference-events",
+            "type": "Collection",
+            "links": [
+                {
+                    "rel": "items",
+                    "type": "application/geo+json",
+                    "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections/reference-events/items"
+                },
+                {
+                    "rel": "parent",
+                    "type": "application/json",
+                    "href": "https://montandon-eoapi-stage.ifrc.org/stac/"
+                },
+                {
+                    "rel": "root",
+                    "type": "application/json",
+                    "href": "https://montandon-eoapi-stage.ifrc.org/stac/"
+                },
+                {
+                    "rel": "self",
+                    "type": "application/json",
+                    "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections/reference-events"
+                },
+                {
+                    "rel": "http://www.opengis.net/def/rel/ogc/1.0/queryables",
+                    "type": "application/schema+json",
+                    "title": "Queryables",
+                    "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections/reference-events/queryables"
+                }
+            ],
+            "roles": [
+                "event",
+                "reference"
+            ],
+            "title": "Reference Events",
+            "assets": {
+                "thumbnail": {
+                    "href": "https://go-wiki.ifrc.org/go-ifrc_logo.png",
+                    "type": "image/png",
+                    "roles": [
+                        "thumbnail"
+                    ],
+                    "title": "IFRC GO Logo"
+                }
+            },
+            "extent": {
+                "spatial": {
+                    "bbox": [
+                        [
+                            -180,
+                            -90,
+                            180,
+                            90
+                        ]
+                    ]
+                },
+                "temporal": {
+                    "interval": [
+                        [
+                            "2000-01-01T00:00:00Z",
+                            null
+                        ]
+                    ]
+                }
+            },
+            "license": "Apache-2.0",
+            "keywords": [
+                "reference",
+                "disaster event",
+                "canonical event",
+                "event registry",
+                "disaster database",
+                "ifrc",
+                "red cross",
+                "red crescent",
+                "humanitarian",
+                "disaster management",
+                "event correlation",
+                "disaster response",
+                "event identification",
+                "global",
+                "monty"
+            ],
+            "providers": [
+                {
+                    "url": "https://ifrcgo.github.io/monty/",
+                    "name": "IFRC",
+                    "roles": [
+                        "producer"
+                    ]
+                }
+            ],
+            "summaries": {
+                "roles": [
+                    "event",
+                    "reference"
+                ],
+                "datetime": {
+                    "maximum": "2025-01-07T01:05:16Z",
+                    "minimum": "2015-06-23T00:00:00Z"
+                },
+                "monty:hazard_codes": [
+                    "GH0001",
+                    "GH0002",
+                    "GH0004"
+                ],
+                "monty:country_codes": [
+                    "CHN",
+                    "SPN"
+                ]
+            },
+            "description": "A collection of reference events loaded into Monty",
+            "stac_version": "1.0.0",
+            "stac_extensions": [
+                "https://ifrcgo.github.io/monty/v0.1.0/schema.json"
+            ]
+        },
+        {
+            "id": "usgs-events",
+            "type": "Collection",
+            "links": [
+                {
+                    "rel": "items",
+                    "type": "application/geo+json",
+                    "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections/usgs-events/items"
+                },
+                {
+                    "rel": "parent",
+                    "type": "application/json",
+                    "href": "https://montandon-eoapi-stage.ifrc.org/stac/"
+                },
+                {
+                    "rel": "root",
+                    "type": "application/json",
+                    "href": "https://montandon-eoapi-stage.ifrc.org/stac/"
+                },
+                {
+                    "rel": "self",
+                    "type": "application/json",
+                    "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections/usgs-events"
+                },
+                {
+                    "rel": "describedby",
+                    "href": "https://github.com/IFRCGo/monty-stac-extension/tree/main/model/sources/USGS#event-item",
+                    "type": "text/html",
+                    "title": "USGS Event Item Source Mappings"
+                },
+                {
+                    "rel": "http://www.opengis.net/def/rel/ogc/1.0/queryables",
+                    "type": "application/schema+json",
+                    "title": "Queryables",
+                    "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections/usgs-events/queryables"
+                }
+            ],
+            "roles": [
+                "event",
+                "source"
+            ],
+            "title": "USGS Events",
+            "assets": {
+                "thumbnail": {
+                    "href": "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/newsletter/public/thumbnails/image/TwitterQuakes-badge.png",
+                    "type": "image/png",
+                    "roles": [
+                        "thumbnail"
+                    ],
+                    "title": "USGS Earthquakes Logo"
+                }
+            },
+            "extent": {
+                "spatial": {
+                    "bbox": [
+                        [
+                            -180,
+                            -90,
+                            180,
+                            90
+                        ]
+                    ]
+                },
+                "temporal": {
+                    "interval": [
+                        [
+                            "2025-01-07T01:05:16Z",
+                            "2025-01-07T01:05:16Z"
+                        ]
+                    ]
+                }
+            },
+            "license": "Apache-2.0",
+            "keywords": [
+                "usgs",
+                "earthquake",
+                "seismic activity",
+                "seismology",
+                "magnitude",
+                "epicenter",
+                "hypocenter",
+                "fault",
+                "tectonic",
+                "plate boundary",
+                "aftershock",
+                "foreshock",
+                "ground motion",
+                "seismic hazard",
+                "geological survey",
+                "global"
+            ],
+            "providers": [
+                {
+                    "url": "https://earthquake.usgs.gov/",
+                    "name": "USGS",
+                    "roles": [
+                        "producer"
+                    ]
+                }
+            ],
+            "summaries": {
+                "roles": [
+                    "event",
+                    "source"
+                ],
+                "datetime": {
+                    "maximum": "2025-01-07T01:05:16Z",
+                    "minimum": "2025-01-07T01:05:16Z"
+                },
+                "monty:hazard_codes": [
+                    "nat-geo-ear-gro"
+                ],
+                "monty:country_codes": [
+                    "AFG",
+                    "ALB",
+                    "DZA",
+                    "ARG",
+                    "ARM",
+                    "AUS",
+                    "AUT",
+                    "AZE",
+                    "BGD",
+                    "BLR",
+                    "BEL",
+                    "BTN",
+                    "BOL",
+                    "BIH",
+                    "BRA",
+                    "BGR",
+                    "BDI",
+                    "KHM",
+                    "CMR",
+                    "CAN",
+                    "CHL",
+                    "CHN",
+                    "COL",
+                    "CRI",
+                    "HRV",
+                    "CUB",
+                    "CYP",
+                    "CZE",
+                    "DNK",
+                    "DOM",
+                    "ECU",
+                    "EGY",
+                    "SLV",
+                    "EST",
+                    "ETH",
+                    "FJI",
+                    "FIN",
+                    "FRA",
+                    "GEO",
+                    "DEU",
+                    "GHA",
+                    "GRC",
+                    "GTM",
+                    "HTI",
+                    "HND",
+                    "HUN",
+                    "ISL",
+                    "IND",
+                    "IDN",
+                    "IRN",
+                    "IRQ",
+                    "IRL",
+                    "ISR",
+                    "ITA",
+                    "JAM",
+                    "JPN",
+                    "JOR",
+                    "KAZ",
+                    "KEN",
+                    "KGZ",
+                    "LAO",
+                    "LVA",
+                    "LBN",
+                    "LBY",
+                    "LTU",
+                    "MKD",
+                    "MDG",
+                    "MYS",
+                    "MLI",
+                    "MLT",
+                    "MRT",
+                    "MEX",
+                    "MDA",
+                    "MNG",
+                    "MNE",
+                    "MAR",
+                    "MOZ",
+                    "MMR",
+                    "NPL",
+                    "NLD",
+                    "NZL",
+                    "NIC",
+                    "NER",
+                    "NGA",
+                    "NOR",
+                    "PAK",
+                    "PAN",
+                    "PNG",
+                    "PRY",
+                    "PER",
+                    "PHL",
+                    "POL",
+                    "PRT",
+                    "ROU",
+                    "RUS",
+                    "RWA",
+                    "SAU",
+                    "SRB",
+                    "SLE",
+                    "SGP",
+                    "SVK",
+                    "SVN",
+                    "SOM",
+                    "ZAF",
+                    "KOR",
+                    "ESP",
+                    "LKA",
+                    "SDN",
+                    "SWE",
+                    "CHE",
+                    "SYR",
+                    "TWN",
+                    "TJK",
+                    "TZA",
+                    "THA",
+                    "TUN",
+                    "TUR",
+                    "UGA",
+                    "UKR",
+                    "GBR",
+                    "USA",
+                    "URY",
+                    "UZB",
+                    "VEN",
+                    "VNM",
+                    "YEM",
+                    "ZMB",
+                    "ZWE"
+                ]
+            },
+            "description": "Events from the United States Geological Survey (USGS) Earthquake Hazards Program. The USGS provides comprehensive earthquake data through their public API, offering real-time and historical earthquake information globally, with the most complete coverage for the United States. Each event includes detailed information about the earthquake's location, magnitude, depth, and other seismic parameters. More information on the USGS mapping in Monty can be found in the [USGS Event Source Mappings](https://github.com/IFRCGo/monty-stac-extension/tree/main/model/sources/USGS#event-item).",
+            "stac_version": "1.0.0",
+            "stac_extensions": [
+                "https://ifrcgo.github.io/monty/v0.1.0/schema.json",
+                "https://stac-extensions.github.io/earthquake/v1.0.0/schema.json"
+            ]
+        },
+        {
+            "id": "usgs-hazards",
+            "type": "Collection",
+            "links": [
+                {
+                    "rel": "items",
+                    "type": "application/geo+json",
+                    "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections/usgs-hazards/items"
+                },
+                {
+                    "rel": "parent",
+                    "type": "application/json",
+                    "href": "https://montandon-eoapi-stage.ifrc.org/stac/"
+                },
+                {
+                    "rel": "root",
+                    "type": "application/json",
+                    "href": "https://montandon-eoapi-stage.ifrc.org/stac/"
+                },
+                {
+                    "rel": "self",
+                    "type": "application/json",
+                    "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections/usgs-hazards"
+                },
+                {
+                    "rel": "describedby",
+                    "href": "https://github.com/IFRCGo/monty-stac-extension/tree/main/model/sources/USGS#hazard-item-from-shakemap",
+                    "type": "text/html",
+                    "title": "USGS Hazard Item Source Mappings"
+                },
+                {
+                    "rel": "http://www.opengis.net/def/rel/ogc/1.0/queryables",
+                    "type": "application/schema+json",
+                    "title": "Queryables",
+                    "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections/usgs-hazards/queryables"
+                }
+            ],
+            "roles": [
+                "hazard",
+                "source"
+            ],
+            "title": "USGS Hazards",
+            "assets": {
+                "thumbnail": {
+                    "href": "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/newsletter/public/thumbnails/image/TwitterQuakes-badge.png",
+                    "type": "image/png",
+                    "roles": [
+                        "thumbnail"
+                    ],
+                    "title": "USGS Earthquakes Logo"
+                }
+            },
+            "extent": {
+                "spatial": {
+                    "bbox": [
+                        [
+                            -180,
+                            -90,
+                            180,
+                            90
+                        ]
+                    ]
+                },
+                "temporal": {
+                    "interval": [
+                        [
+                            "2025-01-07T01:05:16Z",
+                            "2025-01-07T01:05:16Z"
+                        ]
+                    ]
+                }
+            },
+            "license": "Apache-2.0",
+            "keywords": [
+                "usgs",
+                "shakemap",
+                "earthquake hazard",
+                "ground motion",
+                "shaking intensity",
+                "peak ground acceleration",
+                "peak ground velocity",
+                "modified mercalli intensity",
+                "seismic hazard",
+                "ground shaking",
+                "liquefaction",
+                "landslide potential",
+                "earthquake damage",
+                "seismic risk",
+                "geological survey",
+                "global"
+            ],
+            "providers": [
+                {
+                    "url": "https://earthquake.usgs.gov/",
+                    "name": "USGS",
+                    "roles": [
+                        "producer"
+                    ]
+                }
+            ],
+            "summaries": {
+                "roles": [
+                    "hazard",
+                    "source"
+                ],
+                "datetime": {
+                    "maximum": "2025-01-07T01:05:16Z",
+                    "minimum": "2025-01-07T01:05:16Z"
+                },
+                "monty:hazard_codes": [
+                    "nat-geo-ear-gro"
+                ],
+                "monty:country_codes": [
+                    "AFG",
+                    "ALB",
+                    "DZA",
+                    "ARG",
+                    "ARM",
+                    "AUS",
+                    "AUT",
+                    "AZE",
+                    "BGD",
+                    "BLR",
+                    "BEL",
+                    "BTN",
+                    "BOL",
+                    "BIH",
+                    "BRA",
+                    "BGR",
+                    "BDI",
+                    "KHM",
+                    "CMR",
+                    "CAN",
+                    "CHL",
+                    "CHN",
+                    "COL",
+                    "CRI",
+                    "HRV",
+                    "CUB",
+                    "CYP",
+                    "CZE",
+                    "DNK",
+                    "DOM",
+                    "ECU",
+                    "EGY",
+                    "SLV",
+                    "EST",
+                    "ETH",
+                    "FJI",
+                    "FIN",
+                    "FRA",
+                    "GEO",
+                    "DEU",
+                    "GHA",
+                    "GRC",
+                    "GTM",
+                    "HTI",
+                    "HND",
+                    "HUN",
+                    "ISL",
+                    "IND",
+                    "IDN",
+                    "IRN",
+                    "IRQ",
+                    "IRL",
+                    "ISR",
+                    "ITA",
+                    "JAM",
+                    "JPN",
+                    "JOR",
+                    "KAZ",
+                    "KEN",
+                    "KGZ",
+                    "LAO",
+                    "LVA",
+                    "LBN",
+                    "LBY",
+                    "LTU",
+                    "MKD",
+                    "MDG",
+                    "MYS",
+                    "MLI",
+                    "MLT",
+                    "MRT",
+                    "MEX",
+                    "MDA",
+                    "MNG",
+                    "MNE",
+                    "MAR",
+                    "MOZ",
+                    "MMR",
+                    "NPL",
+                    "NLD",
+                    "NZL",
+                    "NIC",
+                    "NER",
+                    "NGA",
+                    "NOR",
+                    "PAK",
+                    "PAN",
+                    "PNG",
+                    "PRY",
+                    "PER",
+                    "PHL",
+                    "POL",
+                    "PRT",
+                    "ROU",
+                    "RUS",
+                    "RWA",
+                    "SAU",
+                    "SRB",
+                    "SLE",
+                    "SGP",
+                    "SVK",
+                    "SVN",
+                    "SOM",
+                    "ZAF",
+                    "KOR",
+                    "ESP",
+                    "LKA",
+                    "SDN",
+                    "SWE",
+                    "CHE",
+                    "SYR",
+                    "TWN",
+                    "TJK",
+                    "TZA",
+                    "THA",
+                    "TUN",
+                    "TUR",
+                    "UGA",
+                    "UKR",
+                    "GBR",
+                    "USA",
+                    "URY",
+                    "UZB",
+                    "VEN",
+                    "VNM",
+                    "YEM",
+                    "ZMB",
+                    "ZWE"
+                ]
+            },
+            "description": "Hazard records from the United States Geological Survey (USGS) ShakeMap products. The USGS ShakeMap provides near real-time maps of ground motion and shaking intensity following significant earthquakes. These maps include detailed information about ground shaking intensity, peak ground acceleration, peak ground velocity, and potential damage. Each hazard record includes comprehensive data about the earthquake's impact on the surrounding area, with specialized visualizations and data products. More information on the USGS mapping in Monty can be found in the [USGS Hazard Source Mappings](https://github.com/IFRCGo/monty-stac-extension/tree/main/model/sources/USGS#hazard-item-from-shakemap).",
+            "stac_version": "1.0.0",
+            "stac_extensions": [
+                "https://ifrcgo.github.io/monty/v0.1.0/schema.json",
+                "https://stac-extensions.github.io/earthquake/v1.0.0/schema.json"
+            ]
+        },
+        {
+            "id": "usgs-impacts",
+            "type": "Collection",
+            "links": [
+                {
+                    "rel": "items",
+                    "type": "application/geo+json",
+                    "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections/usgs-impacts/items"
+                },
+                {
+                    "rel": "parent",
+                    "type": "application/json",
+                    "href": "https://montandon-eoapi-stage.ifrc.org/stac/"
+                },
+                {
+                    "rel": "root",
+                    "type": "application/json",
+                    "href": "https://montandon-eoapi-stage.ifrc.org/stac/"
+                },
+                {
+                    "rel": "self",
+                    "type": "application/json",
+                    "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections/usgs-impacts"
+                },
+                {
+                    "rel": "describedby",
+                    "href": "https://github.com/IFRCGo/monty-stac-extension/tree/main/model/sources/USGS#impact-items-from-pager",
+                    "type": "text/html",
+                    "title": "USGS Impact Item Source Mappings"
+                },
+                {
+                    "rel": "http://www.opengis.net/def/rel/ogc/1.0/queryables",
+                    "type": "application/schema+json",
+                    "title": "Queryables",
+                    "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections/usgs-impacts/queryables"
+                }
+            ],
+            "roles": [
+                "impact",
+                "source"
+            ],
+            "title": "USGS Impacts",
+            "extent": {
+                "spatial": {
+                    "bbox": [
+                        [
+                            -180,
+                            -90,
+                            180,
+                            90
+                        ]
+                    ]
+                },
+                "temporal": {
+                    "interval": [
+                        [
+                            "2025-01-07T01:05:16Z",
+                            "2025-01-07T01:05:16Z"
+                        ]
+                    ]
+                }
+            },
+            "license": "Apache-2.0",
+            "providers": [
+                {
+                    "url": "https://earthquake.usgs.gov/",
+                    "name": "USGS",
+                    "roles": [
+                        "producer"
+                    ]
+                }
+            ],
+            "summaries": {
+                "roles": [
+                    "impact",
+                    "source"
+                ],
+                "datetime": {
+                    "maximum": "2025-01-07T01:05:16Z",
+                    "minimum": "2025-01-07T01:05:16Z"
+                },
+                "monty:hazard_codes": [
+                    "GH0004"
+                ],
+                "monty:country_codes": [
+                    "CHN"
+                ]
+            },
+            "description": "Impact records from the United States Geological Survey (USGS) PAGER (Prompt Assessment of Global Earthquakes for Response) products. PAGER provides rapid estimates of the impact of significant earthquakes around the world, including the number of people and settlements exposed to severe shaking, as well as possible fatalities and economic losses. The system combines earthquake parameters, population exposure, vulnerability, and economic data to estimate potential impacts. Each impact record includes detailed information about estimated fatalities or economic losses with confidence intervals. More information on the USGS mapping in Monty can be found in the [USGS Impact Source Mappings](https://github.com/IFRCGo/monty-stac-extension/tree/main/model/sources/USGS#impact-items-from-pager).",
+            "stac_version": "1.0.0",
+            "stac_extensions": [
+                "https://ifrcgo.github.io/monty/v0.1.0/schema.json",
+                "https://stac-extensions.github.io/earthquake/v1.0.0/schema.json"
+            ]
+        }
+    ],
+    "links": [
+        {
+            "rel": "previous",
+            "type": "application/geo+json",
+            "method": "GET",
+            "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections?offset=10"
+        },
+        {
+            "rel": "root",
+            "type": "application/json",
+            "href": "https://montandon-eoapi-stage.ifrc.org/stac/"
+        },
+        {
+            "rel": "self",
+            "type": "application/json",
+            "href": "https://montandon-eoapi-stage.ifrc.org/stac/collections?offset=20"
+        }
+    ],
+    "numberMatched": 29,
+    "numberReturned": 9
+}
