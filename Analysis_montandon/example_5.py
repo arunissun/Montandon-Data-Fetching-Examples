@@ -13,7 +13,7 @@ INTERVAL_YEARS = 50
 MAX_WORKERS = 10 # Number of parallel requests
 
 def get_hazard_collections(session):
-    """Retrieves a list of all collection IDs that have 'monty:hazard_codes' in their summaries."""
+    """Retrieves a list of all collection IDs that have '-events' in their name."""
     print("Fetching list of all collections...")
     url = f"{BASE_URL}/collections"
     try:
@@ -29,11 +29,11 @@ def get_hazard_collections(session):
             hazard_codes = summaries.get("monty:hazard_codes")
             
             print(f"  Checking collection '{coll_id}'")
-            if hazard_codes:
+            if "-events" in coll_id:
                 hazard_collections.append(coll_id)
-                print(f"    ✓ Has monty:hazard_codes ({len(hazard_codes)} codes) - Added")
+                print(f"    ✓ Has '-events' in name - Added")
             else:
-                print(f"    ✗ No monty:hazard_codes found")
+                print(f"    ✗ No '-events' in name")
         
         print(f"\nFound {len(hazard_collections)} collections with hazard data: {hazard_collections}\n")
         return hazard_collections
