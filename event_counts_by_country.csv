@@ -1,0 +1,239 @@
+collection,iso3_country,event_count,,collection,iso3_country,event_count,,,collection,iso3_country,event_count,,,collection,iso3_country,event_count,,,collection,iso3_country,event_count,,collection,iso3_country,event_count,,collection,iso3_country,event_count,,collection,iso3_country,event_count,,collection,iso3_country,event_count,,collection,iso3_country,event_count
+gfd-events,USA,62,,ifrcevent-events,SLE,17,,,glide-events,RUS,113,,,idmc-gidd-events,ARG,149,,,ibtracs-events,UNK,13324,,idmc-idu-events,PHL,574,,pdc-events,GUM,6,,gdacs-events,CAN,464,,emdat-events,LKA,149,,desinventar-events,NER,42740
+gfd-events, MEX,20,,ifrcevent-events,AFG,26,,,glide-events,LAO,39,,,idmc-gidd-events,BOL,116,,,ibtracs-events,NAM,1,,idmc-idu-events,MYS,540,,pdc-events,USA,6747,,gdacs-events,COD,1115,,emdat-events,PRT,75,,desinventar-events,VEN,2287
+gfd-events,KHM,1,,ifrcevent-events,BOL,35,,,glide-events,NPL,77,,,idmc-gidd-events,MYS,221,,,ibtracs-events,ZAF,1,,idmc-idu-events,MEX,256,,pdc-events,MEX,198,,gdacs-events,JPN,910,,emdat-events,NGA,482,,desinventar-events,ZMB,247
+gfd-events, VNM,32,,ifrcevent-events,CPV,8,,,glide-events,GTM,74,,,idmc-gidd-events,ZAF,59,,,ibtracs-events,XYZ,33,,idmc-idu-events,MDG,39,,pdc-events,CHN,747,,gdacs-events,,383,,emdat-events,SYR,56,,desinventar-events,TLS,440
+gfd-events, LAO,32,,ifrcevent-events,COG,20,,,glide-events,TWN,50,,,idmc-gidd-events,MOZ,22,,,ibtracs-events,NIC,3,,idmc-idu-events,USA,1131,,pdc-events,PRI,94,,gdacs-events,PHL,427,,emdat-events,AFG,269,,desinventar-events,KEN,3484
+gfd-events,BRA,70,,ifrcevent-events,ECU,26,,,glide-events,CHN,502,,,idmc-gidd-events,IDN,1236,,,ibtracs-events,ATG,1,,idmc-idu-events,SDN,218,,pdc-events,IND,306,,gdacs-events,AUS,1818,,emdat-events,NAM,33,,desinventar-events,GHA,2603
+gfd-events, BOL,36,,ifrcevent-events,COD,41,,,glide-events,KAZ,28,,,idmc-gidd-events,BDI,399,,,ibtracs-events,USA,15,,idmc-idu-events,VNM,353,,pdc-events,VIR,10,,gdacs-events,USA,1161,,emdat-events,SDN,151,,desinventar-events,PRY,2617
+gfd-events, PRY,25,,ifrcevent-events,SOM,20,,,glide-events,MMR,79,,,idmc-gidd-events,COD,105,,,ibtracs-events,CAN,4,,idmc-idu-events,ITA,143,,pdc-events,NGA,42,,gdacs-events,AGO,838,,emdat-events,GIN,74,,desinventar-events,MDG,944
+gfd-events, ARG,43,,ifrcevent-events,MMR,31,,,glide-events,IND,275,,,idmc-gidd-events,NPL,504,,,ibtracs-events,MEX,6,,idmc-idu-events,IDN,2633,,pdc-events,GBR,24,,gdacs-events,BOL,426,,emdat-events,IND,1486,,desinventar-events,ALB,1537
+gfd-events,MEX,19,,ifrcevent-events,TZA,27,,,glide-events,AFG,131,,,idmc-gidd-events,ESP,114,,,ibtracs-events,DOM,4,,idmc-idu-events,LUX,4,,pdc-events,RUS,492,,gdacs-events,RUS,1664,,emdat-events,VNM,344,,desinventar-events,ARM,7
+gfd-events, USA,36,,ifrcevent-events,KGZ,15,,,glide-events,SOM,70,,,idmc-gidd-events,NAM,9,,,ibtracs-events,VCT,1,,idmc-idu-events,CHN,383,,pdc-events,IDN,245,,gdacs-events,IDN,1585,,emdat-events,THA,278,,desinventar-events,SWZ,225
+gfd-events,GHA,3,,ifrcevent-events,MYS,14,,,glide-events,PHL,346,,,idmc-gidd-events,PHL,278,,,ibtracs-events,BHS,1,,idmc-idu-events,ARG,220,,pdc-events,ETH,34,,gdacs-events,CHN,613,,emdat-events,MMR,163,,desinventar-events,AGO,279
+gfd-events, TGO,9,,ifrcevent-events,ARG,28,,,glide-events,THA,100,,,idmc-gidd-events,VNM,252,,,ibtracs-events,BLZ,1,,idmc-idu-events,BOL,84,,pdc-events,SDN,48,,gdacs-events,CUB,31,,emdat-events,CHN,1967,,desinventar-events,MOZ,7483
+gfd-events,IND,48,,ifrcevent-events,CMR,32,,,glide-events,KOR,48,,,idmc-gidd-events,CHL,99,,,ibtracs-events,GTM,1,,idmc-idu-events,JPN,79,,pdc-events,ERI,9,,gdacs-events,THA,210,,emdat-events,BRA,459,,desinventar-events,SYC,22
+gfd-events, BGD,101,,ifrcevent-events,BWA,11,,,glide-events,BOL,63,,,idmc-gidd-events,AUS,49,,,ibtracs-events,COL,2,,idmc-idu-events,CAN,224,,pdc-events,ARG,77,,gdacs-events,PNG,303,,emdat-events,MRT,61,,desinventar-events,SOM,303
+gfd-events, CHN,19,,ifrcevent-events,ZWE,22,,,glide-events,MKD,23,,,idmc-gidd-events,FJI,7,,,ibtracs-events,SLV,1,,idmc-idu-events,AFG,205,,pdc-events,URY,8,,gdacs-events,TON,242,,emdat-events,BEN,47,,desinventar-events,MWI,155
+gfd-events, NPL,65,,ifrcevent-events,UGA,40,,,glide-events,ETH,98,,,idmc-gidd-events,TCD,10,,,ibtracs-events,CUB,4,,idmc-idu-events,AGO,124,,pdc-events,BRA,520,,gdacs-events,TCD,203,,emdat-events,IDN,864,,desinventar-events,MNE,276
+gfd-events,NGA,2,,ifrcevent-events,CHL,22,,,glide-events,KGZ,35,,,idmc-gidd-events,CHE,17,,,ibtracs-events,GLP,1,,idmc-idu-events,IND,908,,pdc-events,SVK,9,,gdacs-events,CRI,95,,emdat-events,RUS,399,,desinventar-events,UGA,3403
+gfd-events, CMR,22,,ifrcevent-events,GNB,3,,,glide-events,ECU,65,,,idmc-gidd-events,TZA,16,,,ibtracs-events,PRI,1,,idmc-idu-events,MMR,253,,pdc-events,LTU,23,,gdacs-events,BRA,561,,emdat-events,DZA,147,,desinventar-events,ETH,5441
+gfd-events,BGD,2,,ifrcevent-events,GHA,22,,,glide-events,LBN,22,,,idmc-gidd-events,IND,777,,,ibtracs-events,TTO,1,,idmc-idu-events,RUS,75,,pdc-events,POL,13,,gdacs-events,ZAF,160,,emdat-events,KOR,200,,desinventar-events,MMR,21579
+gfd-events, IND,99,,ifrcevent-events,AGO,13,,,glide-events,MOZ,61,,,idmc-gidd-events,USA,309,,,ibtracs-events,JAM,1,,idmc-idu-events,KOR,70,,pdc-events,PER,45,,gdacs-events,GBR,96,,emdat-events,ITA,283,,desinventar-events,PAN,5054
+gfd-events, VEN,17,,ifrcevent-events,ETH,33,,,glide-events,MYS,52,,,idmc-gidd-events,GAB,5,,,ibtracs-events,HTI,1,,idmc-idu-events,ESP,178,,pdc-events,CAN,7258,,gdacs-events,MYS,121,,emdat-events,TWN,188,,desinventar-events,RWA,60
+gfd-events, GUY,8,,ifrcevent-events,VUT,13,,,glide-events,IRQ,27,,,idmc-gidd-events,ZMB,35,,,,,,,idmc-idu-events,BGD,87,,pdc-events,AUS,1260,,gdacs-events,ECU,114,,emdat-events,CAF,68,,desinventar-events,NGA,21
+gfd-events, COL,16,,ifrcevent-events,GAB,10,,,glide-events,ARG,56,,,idmc-gidd-events,SDN,139,,,,,,,idmc-idu-events,GIN,13,,pdc-events,AGO,301,,gdacs-events,GRC,277,,emdat-events,VEN,117,,desinventar-events,IND,10568
+gfd-events,VNM,28,,ifrcevent-events,HND,22,,,glide-events,MDG,68,,,idmc-gidd-events,RUS,32,,,,,,,idmc-idu-events,COD,167,,pdc-events,BOL,364,,gdacs-events,HTI,44,,emdat-events,PER,392,,desinventar-events,CRI,896
+gfd-events, KHM,45,,ifrcevent-events,COL,29,,,glide-events,JPN,170,,,idmc-gidd-events,VUT,10,,,,,,,idmc-idu-events,VEN,24,,pdc-events,PRY,18,,gdacs-events,TUR,207,,emdat-events,TUR,378,,desinventar-events,GMB,270
+gfd-events,MMR,15,,ifrcevent-events,CRI,25,,,glide-events,REU,4,,,idmc-gidd-events,GRC,114,,,,,,,idmc-idu-events,ECU,132,,pdc-events,CRI,20,,gdacs-events,TKM,11,,emdat-events,CPV,23,,desinventar-events,GNB,77
+gfd-events,RUS,40,,ifrcevent-events,PAN,24,,,glide-events,FJI,35,,,idmc-gidd-events,AGO,132,,,,,,,idmc-idu-events,UGA,283,,pdc-events,PAN,21,,gdacs-events,AFG,170,,emdat-events,KEN,194,,desinventar-events,JAM,1218
+gfd-events, MNG,12,,ifrcevent-events,PHL,70,,,glide-events,GEO,25,,,idmc-gidd-events,LKA,326,,,,,,,idmc-idu-events,YEM,219,,pdc-events,COL,91,,gdacs-events,TJK,54,,emdat-events,JPN,461,,desinventar-events,COL,41820
+gfd-events, KAZ,19,,ifrcevent-events,CUB,14,,,glide-events,BWA,10,,,idmc-gidd-events,RWA,17,,,,,,,idmc-idu-events,KEN,127,,pdc-events,ZMB,54,,gdacs-events,PAK,185,,emdat-events,YEM,106,,desinventar-events,MNG,583
+gfd-events, PAK,41,,ifrcevent-events,DZA,22,,,glide-events,IDN,323,,,idmc-gidd-events,COM,3,,,,,,,idmc-idu-events,CAF,80,,pdc-events,COD,163,,gdacs-events,KAZ,157,,emdat-events,GNQ,18,,desinventar-events,GTM,5239
+gfd-events,SDN,29,,ifrcevent-events,NPL,26,,,glide-events,UGA,86,,,idmc-gidd-events,NZL,42,,,,,,,idmc-idu-events,GRC,134,,pdc-events,KAZ,47,,gdacs-events,UZB,24,,emdat-events,USA,1522,,desinventar-events,PER,18156
+gfd-events, KEN,25,,ifrcevent-events,TCD,24,,,glide-events,MRT,28,,,idmc-gidd-events,AZE,6,,,,,,,idmc-idu-events,TWN,22,,pdc-events,MRT,63,,gdacs-events,IRN,188,,emdat-events,GTM,160,,desinventar-events,ARG,17770
+gfd-events, COD,16,,ifrcevent-events,PRT,1,,,glide-events,PER,87,,,idmc-gidd-events,CHN,80,,,,,,,idmc-idu-events,CPV,2,,pdc-events,MLI,30,,gdacs-events,KGZ,33,,emdat-events,ROU,124,,desinventar-events,HND,10584
+gfd-events, UGA,17,,ifrcevent-events,ROU,12,,,glide-events,TZA,72,,,idmc-gidd-events,ITA,66,,,,,,,idmc-idu-events,SSD,132,,pdc-events,SEN,1,,gdacs-events,KEN,79,,emdat-events,CIV,50,,desinventar-events,BOL,4646
+gfd-events, TZA,29,,ifrcevent-events,POL,2,,,glide-events,USA,420,,,idmc-gidd-events,CRI,25,,,,,,,idmc-idu-events,TUR,110,,pdc-events,MKD,33,,gdacs-events,VNM,121,,emdat-events,CYP,20,,desinventar-events,BFA,1326
+gfd-events, ZMB,20,,ifrcevent-events,VNM,38,,,glide-events,AGO,48,,,idmc-gidd-events,SLV,26,,,,,,,idmc-idu-events,FRA,137,,pdc-events,SRB,14,,gdacs-events,VUT,166,,emdat-events,PAK,496,,desinventar-events,SLV,6035
+gfd-events, BDI,16,,ifrcevent-events,PAK,34,,,glide-events,VUT,37,,,idmc-gidd-events,GBR,25,,,,,,,idmc-idu-events,SOM,498,,pdc-events,ROU,20,,gdacs-events,COL,244,,emdat-events,BGD,570,,desinventar-events,SEN,728
+gfd-events, RWA,16,,ifrcevent-events,BDI,13,,,glide-events,ARM,18,,,idmc-gidd-events,SWZ,4,,,,,,,idmc-idu-events,ETH,113,,pdc-events,BGR,40,,gdacs-events,MDV,8,,emdat-events,HKG,125,,desinventar-events,VCT,363
+gfd-events,TUR,32,,ifrcevent-events,SSD,8,,,glide-events,LBY,12,,,idmc-gidd-events,MLI,7,,,,,,,idmc-idu-events,CHL,93,,pdc-events,KSV,12,,gdacs-events,ARG,323,,emdat-events,PHL,927,,desinventar-events,LCA,224
+gfd-events, ITA,26,,ifrcevent-events,NGA,24,,,glide-events,COM,14,,,idmc-gidd-events,LBY,9,,,,,,,idmc-idu-events,PAK,208,,pdc-events,MNE,10,,gdacs-events,IND,1213,,emdat-events,MAC,9,,desinventar-events,MLI,3893
+gfd-events, UKR,16,,ifrcevent-events,BRB,1,,,glide-events,ZWE,41,,,idmc-gidd-events,NIC,9,,,,,,,idmc-idu-events,KGZ,23,,pdc-events,ALB,48,,gdacs-events,MYT,1,,emdat-events,IRQ,59,,desinventar-events,CHL,10852
+gfd-events, ROU,23,,ifrcevent-events,GRD,1,,,glide-events,SYR,28,,,idmc-gidd-events,MEX,100,,,,,,,idmc-idu-events,ROU,18,,pdc-events,NLD,5,,gdacs-events,COM,7,,emdat-events,LAO,60,,desinventar-events,GRD,162
+gfd-events, GRC,22,,ifrcevent-events,JAM,11,,,glide-events,GAB,11,,,idmc-gidd-events,UGA,172,,,,,,,idmc-idu-events,NGA,135,,pdc-events,DEU,31,,gdacs-events,MOZ,262,,emdat-events,MEX,484,,desinventar-events,URY,2663
+gfd-events, BGR,32,,ifrcevent-events,VCT,5,,,glide-events,LKA,77,,,idmc-gidd-events,HND,156,,,,,,,idmc-idu-events,BGR,12,,pdc-events,CZE,9,,gdacs-events,MDG,104,,emdat-events,FRA,290,,desinventar-events,MEX,33204
+gfd-events, SRB,37,,ifrcevent-events,LBR,10,,,glide-events,BLZ,21,,,idmc-gidd-events,COL,268,,,,,,,idmc-idu-events,ALB,6,,pdc-events,SVN,7,,gdacs-events,FRA,117,,emdat-events,NPL,207,,desinventar-events,NPL,23765
+gfd-events, HRV,33,,ifrcevent-events,ZAF,14,,,glide-events,DOM,36,,,idmc-gidd-events,CAN,93,,,,,,,idmc-idu-events,MNG,21,,pdc-events,HRV,13,,gdacs-events,ITA,137,,emdat-events,CHL,150,,desinventar-events,GUY,887
+gfd-events, ALB,21,,ifrcevent-events,ARM,3,,,glide-events,HND,40,,,idmc-gidd-events,BRA,464,,,,,,,idmc-idu-events,CYP,13,,pdc-events,AUT,25,,gdacs-events,IRL,28,,emdat-events,ARG,178,,desinventar-events,NIC,1049
+gfd-events, MKD,21,,ifrcevent-events,PNG,17,,,glide-events,HTI,62,,,idmc-gidd-events,PER,1378,,,,,,,idmc-idu-events,LKA,419,,pdc-events,ITA,43,,gdacs-events,LBY,8,,emdat-events,TZA,184,,desinventar-events,TUN,2145
+gfd-events, BIH,27,,ifrcevent-events,NAM,14,,,glide-events,CUB,31,,,idmc-gidd-events,URY,52,,,,,,,idmc-idu-events,THA,48,,pdc-events,LBR,1,,gdacs-events,FIN,6,,emdat-events,EGY,245,,desinventar-events,TZA,100
+gfd-events, SVN,30,,ifrcevent-events,BGD,50,,,glide-events,CRI,39,,,idmc-gidd-events,SOM,415,,,,,,,idmc-idu-events,PRT,55,,pdc-events,SLE,1,,gdacs-events,GAB,11,,emdat-events,NER,74,,desinventar-events,PSE,442
+gfd-events,MDG,8,,ifrcevent-events,BLZ,10,,,glide-events,COL,89,,,idmc-gidd-events,ETH,92,,,,,,,idmc-idu-events,NPL,449,,pdc-events,TUR,20,,gdacs-events,UGA,106,,emdat-events,COL,338,,desinventar-events,ECU,762
+gfd-events,IDN,41,,ifrcevent-events,KEN,57,,,glide-events,PAN,43,,,idmc-gidd-events,YEM,469,,,,,,,idmc-idu-events,GTM,188,,pdc-events,MOZ,3,,gdacs-events,TZA,241,,emdat-events,URY,50,,desinventar-events,ESP,2621
+gfd-events,AUS,47,,ifrcevent-events,GTM,19,,,glide-events,VNM,162,,,idmc-gidd-events,KEN,39,,,,,,,idmc-idu-events,ZAF,77,,pdc-events,TZA,10,,gdacs-events,IRQ,30,,emdat-events,HND,111,,desinventar-events,TTO,529
+gfd-events,COD,10,,ifrcevent-events,LSO,7,,,glide-events,ESP,27,,,idmc-gidd-events,MWI,34,,,,,,,idmc-idu-events,URY,34,,pdc-events,ESP,48,,gdacs-events,GIN,230,,emdat-events,COM,38,,,,
+gfd-events, AGO,9,,ifrcevent-events,BRA,13,,,glide-events,SSD,29,,,idmc-gidd-events,KOR,26,,,,,,,idmc-idu-events,AUT,11,,pdc-events,CHL,65,,gdacs-events,SLE,131,,emdat-events,TCD,46,,,,
+gfd-events, COG,7,,ifrcevent-events,YEM,10,,,glide-events,EGY,57,,,idmc-gidd-events,THA,19,,,,,,,idmc-idu-events,AUS,118,,pdc-events,CHE,20,,gdacs-events,ISR,20,,emdat-events,ARM,22,,,,
+gfd-events, NAM,15,,ifrcevent-events,MOZ,35,,,glide-events,SEN,35,,,idmc-gidd-events,IRL,4,,,,,,,idmc-idu-events,SYR,111,,pdc-events,FRA,21,,gdacs-events,LKA,68,,emdat-events,COD,273,,,,
+gfd-events, BWA,12,,ifrcevent-events,MDG,26,,,glide-events,TUR,66,,,idmc-gidd-events,TWN,6,,,,,,,idmc-idu-events,NIC,20,,pdc-events,BEL,5,,gdacs-events,NIC,106,,emdat-events,ZAF,325,,,,
+gfd-events, PER,30,,ifrcevent-events,KAZ,10,,,glide-events,BIH,25,,,idmc-gidd-events,TUR,59,,,,,,,idmc-idu-events,BDI,609,,pdc-events,PNG,54,,gdacs-events,SLV,77,,emdat-events,MYS,145,,,,
+gfd-events, CHL,9,,ifrcevent-events,URY,5,,,glide-events,GHA,34,,,idmc-gidd-events,ZWE,23,,,,,,,idmc-idu-events,COG,9,,pdc-events,LAO,83,,gdacs-events,BLZ,15,,emdat-events,ETH,139,,,,
+gfd-events, CUB,4,,ifrcevent-events,BFA,23,,,glide-events,DZA,43,,,idmc-gidd-events,CMR,22,,,,,,,idmc-idu-events,NZL,88,,pdc-events,VNM,76,,gdacs-events,HND,80,,emdat-events,IRN,434,,,,
+gfd-events, BHS,2,,ifrcevent-events,COM,5,,,glide-events,GRC,34,,,idmc-gidd-events,PRT,23,,,,,,,idmc-idu-events,GNB,4,,pdc-events,MYS,51,,gdacs-events,PRT,95,,emdat-events,CHE,80,,,,
+gfd-events, DOM,4,,ifrcevent-events,BIH,17,,,glide-events,RWA,28,,,idmc-gidd-events,VEN,18,,,,,,,idmc-idu-events,CMR,24,,pdc-events,VEN,98,,gdacs-events,TWN,125,,emdat-events,AUS,256,,,,
+gfd-events, HTI,11,,ifrcevent-events,MHL,3,,,glide-events,SLE,18,,,idmc-gidd-events,BLZ,3,,,,,,,idmc-idu-events,BRA,881,,pdc-events,ECU,121,,gdacs-events,TTO,19,,emdat-events,SOM,108,,,,
+gfd-events, TCA,3,,ifrcevent-events,ZMB,25,,,glide-events,PRT,13,,,idmc-gidd-events,JPN,22,,,,,,,idmc-idu-events,CHE,24,,pdc-events,NIC,63,,gdacs-events,ESP,124,,emdat-events,ISR,29,,,,
+gfd-events,CHN,170,,ifrcevent-events,GIN,24,,,glide-events,AUT,10,,,idmc-gidd-events,HKG,2,,,,,,,idmc-idu-events,GHA,53,,pdc-events,MMR,228,,gdacs-events,GRD,3,,emdat-events,ECU,157,,,,
+gfd-events, HKG,6,,ifrcevent-events,MDV,3,,,glide-events,KEN,109,,,idmc-gidd-events,KAZ,11,,,,,,,idmc-idu-events,TZA,45,,pdc-events,GUY,47,,gdacs-events,LBN,12,,emdat-events,TJK,75,,,,
+gfd-events, MAC,6,,ifrcevent-events,FSM,3,,,glide-events,KHM,51,,,idmc-gidd-events,GTM,170,,,,,,,idmc-idu-events,PNG,54,,pdc-events,SUR,27,,gdacs-events,PER,213,,emdat-events,DOM,100,,,,
+gfd-events, MMR,47,,ifrcevent-events,DOM,18,,,glide-events,TCD,40,,,idmc-gidd-events,SSD,90,,,,,,,idmc-idu-events,PER,939,,pdc-events,KGZ,31,,gdacs-events,VEN,168,,emdat-events,HRV,40,,,,
+gfd-events,COL,13,,ifrcevent-events,FJI,17,,,glide-events,CMR,43,,,idmc-gidd-events,BIH,5,,,,,,,idmc-idu-events,ISR,14,,pdc-events,PRK,20,,gdacs-events,GUM,40,,emdat-events,BIH,36,,,,
+gfd-events,DEU,2,,ifrcevent-events,MNG,17,,,glide-events,PAK,124,,,idmc-gidd-events,PAN,8,,,,,,,idmc-idu-events,DZA,26,,pdc-events,SAU,6,,gdacs-events,TUN,19,,emdat-events,MKD,32,,,,
+gfd-events, CZE,10,,ifrcevent-events,ISL,1,,,glide-events,BRA,73,,,idmc-gidd-events,DJI,1,,,,,,,idmc-idu-events,TJK,20,,pdc-events,YEM,4,,gdacs-events,CMR,217,,emdat-events,MWI,89,,,,
+gfd-events, DNK,2,,ifrcevent-events,MEX,17,,,glide-events,BGD,156,,,idmc-gidd-events,NOR,17,,,,,,,idmc-idu-events,NLD,5,,pdc-events,PAK,54,,gdacs-events,JAM,19,,emdat-events,MOZ,130,,,,
+gfd-events, NLD,3,,ifrcevent-events,LKA,27,,,glide-events,NGA,185,,,idmc-gidd-events,MMR,214,,,,,,,idmc-idu-events,RWA,29,,pdc-events,AFG,4,,gdacs-events,DOM,74,,emdat-events,MDG,112,,,,
+gfd-events,PHL,42,,ifrcevent-events,LBY,1,,,glide-events,ALB,19,,,idmc-gidd-events,SLE,3,,,,,,,idmc-idu-events,NAM,13,,pdc-events,PHL,92,,gdacs-events,NGA,353,,emdat-events,BOL,156,,,,
+gfd-events, BTN,42,,ifrcevent-events,MLI,21,,,glide-events,BTN,12,,,idmc-gidd-events,CYP,13,,,,,,,idmc-idu-events,TON,4,,pdc-events,NPL,65,,gdacs-events,PAN,61,,emdat-events,REU,19,,,,
+gfd-events,KEN,8,,ifrcevent-events,MAR,18,,,glide-events,BDI,41,,,idmc-gidd-events,ECU,158,,,,,,,idmc-idu-events,XKX,6,,pdc-events,THA,72,,gdacs-events,CYP,8,,emdat-events,GEO,40,,,,
+gfd-events,CHL,4,,ifrcevent-events,NER,29,,,glide-events,YEM,48,,,idmc-gidd-events,TON,4,,,,,,,idmc-idu-events,BIH,15,,pdc-events,UKR,10,,gdacs-events,NOR,17,,emdat-events,BWA,23,,,,
+gfd-events,NZL,7,,ifrcevent-events,IDN,34,,,glide-events,TJK,68,,,idmc-gidd-events,BHS,1,,,,,,,idmc-idu-events,MWI,28,,pdc-events,HUN,7,,gdacs-events,COG,14,,emdat-events,LBY,79,,,,
+gfd-events,AGO,9,,ifrcevent-events,MRT,22,,,glide-events,SDN,70,,,idmc-gidd-events,FRA,41,,,,,,,idmc-idu-events,NOR,25,,pdc-events,SLB,11,,gdacs-events,DZA,98,,emdat-events,SSD,26,,,,
+gfd-events, ZAF,3,,ifrcevent-events,SYR,8,,,glide-events,TGO,18,,,idmc-gidd-events,TGO,1,,,,,,,idmc-idu-events,KHM,124,,pdc-events,JPN,123,,gdacs-events,URY,30,,emdat-events,ESP,181,,,,
+gfd-events, URY,24,,ifrcevent-events,GRC,9,,,glide-events,CAF,46,,,idmc-gidd-events,PNG,28,,,,,,,idmc-idu-events,BEN,7,,pdc-events,BTN,17,,gdacs-events,LSO,6,,emdat-events,GNB,33,,,,
+gfd-events,MOZ,7,,ifrcevent-events,SRB,15,,,glide-events,GIN,36,,,idmc-gidd-events,MNG,19,,,,,,,idmc-idu-events,MDV,13,,pdc-events,BRN,3,,gdacs-events,JOR,5,,emdat-events,SLE,50,,,,
+gfd-events, ZWE,21,,ifrcevent-events,ITA,5,,,glide-events,MLI,30,,,idmc-gidd-events,BFA,5,,,,,,,idmc-idu-events,REU,3,,pdc-events,LIE,6,,gdacs-events,SAU,32,,emdat-events,TUN,70,,,,
+gfd-events, MYS,21,,ifrcevent-events,MWI,16,,,glide-events,CHL,46,,,idmc-gidd-events,PAK,164,,,,,,,idmc-idu-events,MUS,8,,pdc-events,MNG,35,,gdacs-events,EGY,13,,emdat-events,HTI,191,,,,
+gfd-events, THA,51,,ifrcevent-events,SVN,2,,,glide-events,UZB,9,,,idmc-gidd-events,BEL,9,,,,,,,idmc-idu-events,FJI,24,,pdc-events,NER,58,,gdacs-events,SYR,13,,emdat-events,VUT,52,,,,
+gfd-events, SGP,15,,ifrcevent-events,GNQ,2,,,glide-events,JAM,19,,,idmc-gidd-events,AFG,48,,,,,,,idmc-idu-events,GBR,52,,pdc-events,BFA,23,,gdacs-events,PSE,1,,emdat-events,GRC,162,,,,
+gfd-events, NER,14,,ifrcevent-events,TUR,12,,,glide-events,VCT,16,,,idmc-gidd-events,SEN,2,,,,,,,idmc-idu-events,BWA,7,,pdc-events,NOR,18,,gdacs-events,KHM,129,,emdat-events,MYT,4,,,,
+gfd-events, BEN,10,,ifrcevent-events,IRN,10,,,glide-events,GRD,5,,,idmc-gidd-events,ROU,6,,,,,,,idmc-idu-events,AZE,8,,pdc-events,SWE,37,,gdacs-events,LAO,462,,emdat-events,UGA,151,,,,
+gfd-events,ZAF,14,,ifrcevent-events,TTO,2,,,glide-events,CPV,6,,,idmc-gidd-events,CUB,6,,,,,,,idmc-idu-events,IRL,9,,pdc-events,BLR,16,,gdacs-events,GEO,21,,emdat-events,CRI,83,,,,
+gfd-events, MOZ,12,,ifrcevent-events,CAF,32,,,glide-events,SLV,43,,,idmc-gidd-events,DZA,24,,,,,,,idmc-idu-events,ATF,1,,pdc-events,DNK,18,,gdacs-events,TCA,4,,emdat-events,NLD,66,,,,
+gfd-events, LSO,4,,ifrcevent-events,TGO,12,,,glide-events,LBR,19,,,idmc-gidd-events,UKR,9,,,,,,,idmc-idu-events,POL,5,,pdc-events,LVA,16,,gdacs-events,MEX,484,,emdat-events,GAB,19,,,,
+gfd-events, SWZ,4,,ifrcevent-events,LBN,4,,,glide-events,CYP,9,,,idmc-gidd-events,CAF,39,,,,,,,idmc-idu-events,MYT,3,,pdc-events,GRL,38,,gdacs-events,GTM,124,,emdat-events,IRL,32,,,,
+gfd-events, ETH,16,,ifrcevent-events,THA,3,,,glide-events,NER,59,,,idmc-gidd-events,AUT,11,,,,,,,idmc-idu-events,SWZ,9,,pdc-events,EST,16,,gdacs-events,OMN,28,,emdat-events,GBR,190,,,,
+gfd-events, AFG,24,,ifrcevent-events,BGR,4,,,glide-events,DEU,19,,,idmc-gidd-events,SVN,9,,,,,,,idmc-idu-events,CRI,43,,pdc-events,VUT,7,,gdacs-events,AZE,15,,emdat-events,NIC,87,,,,
+gfd-events,UKR,7,,ifrcevent-events,BEN,22,,,glide-events,BFA,36,,,idmc-gidd-events,PRY,16,,,,,,,idmc-idu-events,SJM,1,,pdc-events,KEN,8,,gdacs-events,TGO,18,,emdat-events,SLV,75,,,,
+gfd-events, SVK,13,,ifrcevent-events,LAO,7,,,glide-events,PNG,67,,,idmc-gidd-events,BLR,4,,,,,,,idmc-idu-events,ZWE,22,,pdc-events,UGA,5,,gdacs-events,MAR,64,,emdat-events,BLZ,26,,,,
+gfd-events, HUN,13,,ifrcevent-events,GMB,8,,,glide-events,NAM,27,,,idmc-gidd-events,MHL,4,,,,,,,idmc-idu-events,MOZ,23,,pdc-events,DOM,3,,gdacs-events,MRT,20,,emdat-events,CUB,119,,,,
+gfd-events,GBR,12,,ifrcevent-events,GEO,14,,,glide-events,TKM,2,,,idmc-gidd-events,AB9,4,,,,,,,idmc-idu-events,TCD,32,,pdc-events,VGB,7,,gdacs-events,BEL,23,,emdat-events,JAM,55,,,,
+gfd-events, IMN,8,,ifrcevent-events,IND,46,,,glide-events,IRN,124,,,idmc-gidd-events,MRT,2,,,,,,,idmc-idu-events,GAB,6,,pdc-events,RWA,2,,gdacs-events,BGD,92,,emdat-events,CMR,87,,,,
+gfd-events, ECU,17,,ifrcevent-events,CIV,9,,,glide-events,ARE,4,,,idmc-gidd-events,TJK,23,,,,,,,idmc-idu-events,ZMB,20,,pdc-events,FJI,5,,gdacs-events,MNE,9,,emdat-events,PAN,75,,,,
+gfd-events, PAN,17,,ifrcevent-events,IRQ,3,,,glide-events,LSO,11,,,idmc-gidd-events,CZE,6,,,,,,,idmc-idu-events,VUT,9,,pdc-events,SXM,4,,gdacs-events,ALB,33,,emdat-events,SRB,33,,,,
+gfd-events,CAN,38,,ifrcevent-events,VEN,5,,,glide-events,URY,17,,,idmc-gidd-events,KGZ,17,,,,,,,idmc-idu-events,HND,71,,pdc-events,BLM,4,,gdacs-events,MKD,6,,emdat-events,SEN,83,,,,
+gfd-events, IRL,2,,ifrcevent-events,STP,2,,,glide-events,MWI,46,,,idmc-gidd-events,BGD,59,,,,,,,idmc-idu-events,SLV,30,,pdc-events,MAF,4,,gdacs-events,CIV,81,,emdat-events,DJI,32,,,,
+gfd-events, SOM,17,,ifrcevent-events,TUN,13,,,glide-events,COD,68,,,idmc-gidd-events,PRI,1,,,,,,,idmc-idu-events,LBY,7,,pdc-events,AIA,4,,gdacs-events,BIH,19,,emdat-events,SVK,34,,,,
+gfd-events, EGY,15,,ifrcevent-events,TLS,5,,,glide-events,MHL,7,,,idmc-gidd-events,ALB,4,,,,,,,idmc-idu-events,MLI,18,,pdc-events,IRN,6,,gdacs-events,NZL,354,,emdat-events,AUT,65,,,,
+gfd-events,BHS,1,,ifrcevent-events,PSE,8,,,glide-events,ZMB,36,,,idmc-gidd-events,MDV,6,,,,,,,idmc-idu-events,COL,139,,pdc-events,KNA,5,,gdacs-events,SVK,14,,emdat-events,POL,93,,,,
+gfd-events,TCD,10,,ifrcevent-events,TON,3,,,glide-events,ZAF,65,,,idmc-gidd-events,BTN,1,,,,,,,idmc-idu-events,KAZ,24,,pdc-events,BES,5,,gdacs-events,HRV,25,,emdat-events,CZE,41,,,,
+gfd-events, NGA,23,,ifrcevent-events,HTI,32,,,glide-events,FRA,32,,,idmc-gidd-events,MDG,16,,,,,,,idmc-idu-events,CUB,15,,pdc-events,GLP,5,,gdacs-events,LBR,52,,emdat-events,MAR,147,,,,
+gfd-events,VEN,2,,ifrcevent-events,MKD,4,,,glide-events,MNG,34,,,idmc-gidd-events,GIN,5,,,,,,,idmc-idu-events,PAN,13,,pdc-events,TKM,3,,gdacs-events,SEN,125,,emdat-events,TGO,30,,,,
+gfd-events, TJK,9,,ifrcevent-events,TUV,1,,,glide-events,COG,25,,,idmc-gidd-events,BGR,11,,,,,,,idmc-idu-events,BHS,3,,pdc-events,CMR,114,,gdacs-events,DNK,5,,emdat-events,CAN,236,,,,
+gfd-events, UZB,7,,ifrcevent-events,RWA,18,,,glide-events,MDV,11,,,idmc-gidd-events,HRV,4,,,,,,,idmc-idu-events,BFA,9,,pdc-events,TWN,24,,gdacs-events,NPL,102,,emdat-events,PRK,57,,,,
+gfd-events, KGZ,5,,ifrcevent-events,SUR,4,,,glide-events,ISL,7,,,idmc-gidd-events,MKD,1,,,,,,,idmc-idu-events,SEN,8,,pdc-events,TON,11,,gdacs-events,KOR,34,,emdat-events,MLI,75,,,,
+gfd-events,DOM,7,,ifrcevent-events,GUY,7,,,glide-events,JOR,12,,,idmc-gidd-events,PRK,1,,,,,,,idmc-idu-events,UKR,17,,pdc-events,GRC,42,,gdacs-events,POL,51,,emdat-events,KGZ,40,,,,
+gfd-events, JOR,8,,ifrcevent-events,TJK,29,,,glide-events,SLB,20,,,idmc-gidd-events,MDA,1,,,,,,,idmc-idu-events,SVN,11,,pdc-events,KOR,8,,gdacs-events,DEU,51,,emdat-events,VCT,25,,,,
+gfd-events, SYR,13,,ifrcevent-events,PLW,1,,,glide-events,TLS,13,,,idmc-gidd-events,LAO,4,,,,,,,idmc-idu-events,PRY,13,,pdc-events,HKG,27,,gdacs-events,AUT,27,,emdat-events,GRD,11,,,,
+gfd-events, ISR,10,,ifrcevent-events,HRV,3,,,glide-events,PRY,39,,,idmc-gidd-events,LTU,2,,,,,,,idmc-idu-events,BLR,1,,pdc-events,GUF,11,,gdacs-events,ROU,95,,emdat-events,BRB,16,,,,
+gfd-events, CYP,11,,ifrcevent-events,NIC,20,,,glide-events,MEX,103,,,idmc-gidd-events,TLS,5,,,,,,,idmc-idu-events,MHL,5,,pdc-events,HND,25,,gdacs-events,CZE,19,,emdat-events,LBR,22,,,,
+gfd-events, LBN,11,,ifrcevent-events,LCA,4,,,glide-events,PSE,14,,,idmc-gidd-events,DEU,12,,,,,,,idmc-idu-events,AB9,4,,pdc-events,SLV,34,,gdacs-events,SVN,14,,emdat-events,NZL,90,,,,
+gfd-events, MWI,7,,ifrcevent-events,SEN,25,,,glide-events,ISR,11,,,idmc-gidd-events,BEN,1,,,,,,,idmc-idu-events,MRT,6,,pdc-events,GTM,46,,gdacs-events,BGR,27,,emdat-events,KWT,5,,,,
+gfd-events,LKA,9,,ifrcevent-events,SDN,33,,,glide-events,FSM,8,,,idmc-gidd-events,CIV,4,,,,,,,idmc-idu-events,CZE,14,,pdc-events,GNQ,1,,gdacs-events,NLD,13,,emdat-events,AGO,103,,,,
+gfd-events, PSE,3,,ifrcevent-events,UKR,11,,,glide-events,TON,16,,,idmc-gidd-events,IRN,53,,,,,,,idmc-idu-events,PRI,2,,pdc-events,FIN,48,,gdacs-events,BFA,93,,emdat-events,SAU,70,,,,
+gfd-events,ETH,12,,ifrcevent-events,EGY,6,,,glide-events,MAR,31,,,idmc-gidd-events,HUN,4,,,,,,,idmc-idu-events,BTN,2,,pdc-events,TCD,117,,gdacs-events,CHE,19,,emdat-events,DEU,135,,,,
+gfd-events,PRT,2,,ifrcevent-events,PRY,30,,,glide-events,CAN,24,,,idmc-gidd-events,GNB,1,,,,,,,idmc-idu-events,SAU,4,,pdc-events,CAF,9,,gdacs-events,DJI,7,,emdat-events,BFA,64,,,,
+gfd-events, ESP,3,,ifrcevent-events,CHE,1,,,glide-events,SVN,5,,,idmc-gidd-events,LBR,5,,,,,,,idmc-idu-events,BEL,10,,pdc-events,LUX,3,,gdacs-events,SDN,925,,emdat-events,PNG,97,,,,
+gfd-events,MLI,11,,ifrcevent-events,WSM,3,,,glide-events,TUN,15,,,idmc-gidd-events,GUY,7,,,,,,,idmc-idu-events,HRV,8,,pdc-events,SMR,2,,gdacs-events,ETH,236,,emdat-events,RWA,59,,,,
+gfd-events, TCD,11,,ifrcevent-events,ALB,11,,,glide-events,ITA,34,,,idmc-gidd-events,GEO,11,,,,,,,idmc-idu-events,MKD,1,,pdc-events,MDA,5,,gdacs-events,SSD,13,,emdat-events,ARE,17,,,,
+gfd-events,SAU,5,,ifrcevent-events,PRK,18,,,glide-events,SRB,36,,,idmc-gidd-events,ARM,1,,,,,,,idmc-idu-events,PRK,6,,pdc-events,BEN,1,,gdacs-events,PRK,20,,emdat-events,OMN,22,,,,
+gfd-events, YEM,1,,ifrcevent-events,BHS,9,,,glide-events,SWZ,12,,,idmc-gidd-events,GHA,9,,,,,,,idmc-idu-events,MDA,1,,pdc-events,NZL,54,,gdacs-events,VGB,16,,emdat-events,KAZ,45,,,,
+gfd-events, OMN,1,,ifrcevent-events,HUN,5,,,glide-events,GUM,9,,,idmc-gidd-events,SRB,3,,,,,,,idmc-idu-events,LAO,8,,pdc-events,SSD,13,,gdacs-events,CAF,762,,emdat-events,ZWE,76,,,,
+gfd-events, ARE,4,,ifrcevent-events,BTN,1,,,glide-events,GNQ,7,,,idmc-gidd-events,NER,7,,,,,,,idmc-idu-events,LTU,1,,pdc-events,ISL,39,,gdacs-events,BTN,6,,emdat-events,KHM,53,,,,
+gfd-events, PRK,11,,ifrcevent-events,MDA,7,,,glide-events,NZL,15,,,idmc-gidd-events,MUS,3,,,,,,,idmc-idu-events,TLS,7,,pdc-events,BGD,9,,gdacs-events,EST,4,,emdat-events,BDI,66,,,,
+gfd-events, IRN,13,,ifrcevent-events,RUS,14,,,glide-events,GNB,6,,,idmc-gidd-events,DOM,10,,,,,,,idmc-idu-events,BRB,2,,pdc-events,PRT,74,,gdacs-events,SWE,9,,emdat-events,ZMB,72,,,,
+gfd-events, TKM,8,,ifrcevent-events,SLV,17,,,glide-events,TTO,10,,,idmc-gidd-events,ARE,3,,,,,,,idmc-idu-events,LBR,12,,pdc-events,BIH,39,,gdacs-events,CHL,354,,emdat-events,LBN,25,,,,
+gfd-events, TUR,6,,ifrcevent-events,CHN,24,,,glide-events,LCA,9,,,idmc-gidd-events,FIN,2,,,,,,,idmc-idu-events,DEU,22,,pdc-events,BDI,2,,gdacs-events,LTU,7,,emdat-events,MHL,9,,,,
+gfd-events, PNG,3,,ifrcevent-events,SYC,6,,,glide-events,BEN,35,,,idmc-gidd-events,NGA,110,,,,,,,idmc-idu-events,CIV,16,,pdc-events,ARM,2,,gdacs-events,LVA,8,,emdat-events,MUS,24,,,,
+gfd-events, CAF,7,,ifrcevent-events,DMA,3,,,glide-events,NIC,42,,,idmc-gidd-events,MAR,5,,,,,,,idmc-idu-events,IRN,79,,pdc-events,LCA,5,,gdacs-events,MLI,107,,emdat-events,LSO,25,,,,
+gfd-events, BFA,7,,ifrcevent-events,KNA,2,,,glide-events,BGR,15,,,idmc-gidd-events,UZB,1,,,,,,,idmc-idu-events,HUN,3,,pdc-events,UZB,3,,gdacs-events,YEM,53,,emdat-events,COG,39,,,,
+gfd-events,GIN,1,,ifrcevent-events,ATG,4,,,glide-events,GMB,23,,,idmc-gidd-events,IRQ,148,,,,,,,idmc-idu-events,GEO,16,,pdc-events,VCT,4,,gdacs-events,MNG,50,,emdat-events,SYC,7,,,,
+gfd-events, CIV,8,,ifrcevent-events,PER,28,,,glide-events,HUN,19,,,idmc-gidd-events,AND,1,,,,,,,idmc-idu-events,ARM,1,,pdc-events,WLF,3,,gdacs-events,BLR,6,,emdat-events,UKR,95,,,,
+gfd-events, SEN,6,,ifrcevent-events,BLR,8,,,glide-events,CHE,12,,,idmc-gidd-events,LVA,1,,,,,,,idmc-idu-events,HTI,18,,pdc-events,MSR,3,,gdacs-events,GNB,10,,emdat-events,MDA,17,,,,
+gfd-events, LBR,4,,ifrcevent-events,SLB,4,,,glide-events,AUS,44,,,idmc-gidd-events,PYF,1,,,,,,,idmc-idu-events,COM,2,,pdc-events,CUW,3,,gdacs-events,LCA,3,,emdat-events,BGR,64,,,,
+gfd-events, GNB,4,,ifrcevent-events,ISR,1,,,glide-events,CIV,25,,,idmc-gidd-events,OMN,2,,,,,,,idmc-idu-events,BLZ,2,,pdc-events,TCA,3,,gdacs-events,BRB,4,,emdat-events,SUR,9,,,,
+gfd-events, GMB,6,,ifrcevent-events,CZE,3,,,glide-events,DJI,14,,,idmc-gidd-events,LBN,7,,,,,,,idmc-idu-events,SRB,9,,pdc-events,PYF,3,,gdacs-events,MMR,532,,emdat-events,JOR,27,,,,
+gfd-events, SLE,4,,ifrcevent-events,MNE,9,,,glide-events,KIR,2,,,idmc-gidd-events,DNK,5,,,,,,,idmc-idu-events,NER,12,,pdc-events,ATG,3,,gdacs-events,SRB,23,,emdat-events,FJI,61,,,,
+gfd-events,MRT,2,,ifrcevent-events,AZE,5,,,glide-events,DNK,12,,,idmc-gidd-events,NLD,2,,,,,,,idmc-idu-events,DOM,20,,pdc-events,KIR,3,,gdacs-events,BEN,75,,emdat-events,BEL,146,,,,
+gfd-events, GIN,7,,ifrcevent-events,KHM,8,,,glide-events,STP,3,,,idmc-gidd-events,SYR,159,,,,,,,idmc-idu-events,OMN,9,,pdc-events,DMA,3,,gdacs-events,XXK,5,,emdat-events,MNG,47,,,,
+gfd-events,KOR,4,,ifrcevent-events,COK,2,,,glide-events,ERI,6,,,idmc-gidd-events,KHM,99,,,,,,,idmc-idu-events,FIN,3,,pdc-events,GRD,3,,gdacs-events,SOM,36,,emdat-events,PRY,54,,,,
+gfd-events,JPN,2,,ifrcevent-events,TCA,2,,,glide-events,VEN,20,,,idmc-gidd-events,GMB,4,,,,,,,idmc-idu-events,GUY,6,,pdc-events,CYM,6,,gdacs-events,NER,47,,emdat-events,ISL,15,,,,
+gfd-events, FIN,2,,ifrcevent-events,CYM,2,,,glide-events,UKR,28,,,idmc-gidd-events,HTI,10,,,,,,,idmc-idu-events,MAR,8,,pdc-events,ABW,3,,gdacs-events,GHA,221,,emdat-events,SLB,38,,,,
+gfd-events, BLR,11,,ifrcevent-events,SWZ,9,,,glide-events,BLR,13,,,idmc-gidd-events,BWA,4,,,,,,,idmc-idu-events,UZB,4,,pdc-events,NIU,3,,gdacs-events,ARM,2,,emdat-events,GHA,74,,,,
+gfd-events, LVA,5,,ifrcevent-events,ERI,2,,,glide-events,POL,13,,,idmc-gidd-events,ISL,6,,,,,,,idmc-idu-events,IRQ,23,,pdc-events,COK,3,,gdacs-events,FJI,319,,emdat-events,UZB,15,,,,
+gfd-events, LTU,5,,ifrcevent-events,FRA,1,,,glide-events,TUV,3,,,idmc-gidd-events,COG,5,,,,,,,idmc-idu-events,AND,1,,pdc-events,MTQ,3,,gdacs-events,GUY,12,,emdat-events,FSM,11,,,,
+gfd-events, EST,5,,ifrcevent-events,DJI,5,,,glide-events,LTU,3,,,idmc-gidd-events,LSO,1,,,,,,,idmc-idu-events,ARE,6,,pdc-events,MNP,34,,gdacs-events,SYC,6,,emdat-events,SVN,17,,,,
+gfd-events,DZA,6,,ifrcevent-events,SVK,1,,,glide-events,GUY,8,,,idmc-gidd-events,XKX,5,,,,,,,idmc-idu-events,LVA,2,,pdc-events,TJK,16,,gdacs-events,RWA,26,,emdat-events,SWE,24,,,,
+gfd-events, MAR,5,,ifrcevent-events,UZB,1,,,glide-events,PLW,3,,,idmc-gidd-events,MNE,1,,,,,,,idmc-idu-events,PYF,6,,pdc-events,AND,1,,gdacs-events,UKR,24,,emdat-events,NOR,31,,,,
+gfd-events, TUN,5,,ifrcevent-events,KOR,1,,,glide-events,SUR,5,,,idmc-gidd-events,SLB,3,,,,,,,idmc-idu-events,LBN,17,,pdc-events,LKA,2,,gdacs-events,MUS,18,,emdat-events,MNE,10,,,,
+gfd-events,FJI,1,,ifrcevent-events,JOR,3,,,glide-events,NCL,3,,,idmc-gidd-events,ATG,1,,,,,,,idmc-idu-events,DNK,3,,pdc-events,ALA,4,,gdacs-events,ARE,6,,emdat-events,MLT,12,,,,
+gfd-events,CIV,1,,ifrcevent-events,MUS,1,,,glide-events,HRV,10,,,idmc-gidd-events,GUM,2,,,,,,,idmc-idu-events,GMB,7,,pdc-events,CUB,5,,gdacs-events,BHR,1,,emdat-events,LVA,12,,,,
+gfd-events, GHA,8,,,,,,,glide-events,AZE,15,,,idmc-gidd-events,SVK,3,,,,,,,idmc-idu-events,ISL,16,,pdc-events,COG,5,,gdacs-events,MWI,45,,emdat-events,LUX,16,,,,
+gfd-events, GTM,13,,,,,,,glide-events,MUS,5,,,idmc-gidd-events,EGY,2,,,,,,,idmc-idu-events,SYC,1,,pdc-events,GAB,6,,gdacs-events,PRY,76,,emdat-events,LTU,18,,,,
+gfd-events, NIC,13,,,,,,,glide-events,PRK,34,,,idmc-gidd-events,TUN,5,,,,,,,idmc-idu-events,MNE,2,,pdc-events,MCO,1,,gdacs-events,BDI,27,,emdat-events,LIE,1,,,,
+gfd-events, HND,13,,,,,,,glide-events,VGB,1,,,idmc-gidd-events,ISR,10,,,,,,,idmc-idu-events,JEY,1,,pdc-events,MAC,16,,gdacs-events,ZWE,48,,emdat-events,HUN,47,,,,
+gfd-events, BLZ,12,,,,,,,glide-events,TCA,2,,,idmc-gidd-events,BRB,1,,,,,,,idmc-idu-events,SLB,6,,pdc-events,BLZ,16,,gdacs-events,SWZ,2,,emdat-events,FIN,9,,,,
+gfd-events, SLV,7,,,,,,,glide-events,SYC,6,,,idmc-gidd-events,WSM,2,,,,,,,idmc-idu-events,ATG,1,,pdc-events,KHM,1,,gdacs-events,GNQ,2,,emdat-events,EST,8,,,,
+gfd-events, CRI,7,,,,,,,glide-events,SWE,3,,,idmc-gidd-events,JOR,4,,,,,,,idmc-idu-events,GUM,3,,,,,,gdacs-events,MHL,3,,emdat-events,DNK,24,,,,
+gfd-events,BFA,2,,,,,,,glide-events,SVK,8,,,idmc-gidd-events,NCL,1,,,,,,,idmc-idu-events,SVK,3,,,,,,gdacs-events,REU,3,,emdat-events,ALB,50,,,,
+gfd-events,POL,1,,,,,,,glide-events,SGP,5,,,idmc-gidd-events,FSM,1,,,,,,,idmc-idu-events,EGY,2,,,,,,gdacs-events,LUX,7,,emdat-events,GUM,12,,,,
+gfd-events, DEU,9,,,,,,,glide-events,SAU,17,,,idmc-gidd-events,IMN,1,,,,,,,idmc-idu-events,TUN,13,,,,,,gdacs-events,ZMB,352,,emdat-events,BLR,15,,,,
+gfd-events, AUT,10,,,,,,,glide-events,ROM,34,,,,,,,,,,,,idmc-idu-events,HKG,4,,,,,,gdacs-events,BMU,7,,emdat-events,TTO,17,,,,
+gfd-events,TWN,2,,,,,,,glide-events,QAT,2,,,,,,,,,,,,idmc-idu-events,VCT,3,,,,,,gdacs-events,MLT,4,,emdat-events,PSE,12,,,,
+gfd-events,PAK,7,,,,,,,glide-events,PYF,3,,,,,,,,,,,,idmc-idu-events,WSM,4,,,,,,gdacs-events,HUN,11,,emdat-events,MDV,12,,,,
+gfd-events,ESP,8,,,,,,,glide-events,OMN,5,,,,,,,,,,,,idmc-idu-events,JOR,6,,,,,,gdacs-events,NAM,125,,emdat-events,LCA,21,,,,
+gfd-events, FRA,12,,,,,,,glide-events,NOR,4,,,,,,,,,,,,idmc-idu-events,FSM,1,,,,,,gdacs-events,VCT,1,,emdat-events,SWZ,18,,,,
+gfd-events, POL,13,,,,,,,glide-events,NLD,4,,,,,,,,,,,,idmc-idu-events,IMN,1,,,,,,gdacs-events,WSM,15,,emdat-events,PRI,51,,,,
+gfd-events, CHE,18,,,,,,,glide-events,MTQ,3,,,,,,,,,,,,idmc-idu-events,TTO,7,,,,,,gdacs-events,LIE,1,,emdat-events,GLP,19,,,,
+gfd-events, MDA,6,,,,,,,glide-events,MSR,5,,,,,,,,,,,,idmc-idu-events,PSE,4,,,,,,gdacs-events,BWA,303,,emdat-events,GMB,34,,,,
+gfd-events,YEM,1,,,,,,,glide-events,MNE,7,,,,,,,,,,,,idmc-idu-events,LCA,1,,,,,,gdacs-events,MCO,1,,emdat-events,BHS,35,,,,
+gfd-events,AFG,1,,,,,,,glide-events,MLT,1,,,,,,,,,,,,idmc-idu-events,TCA,1,,,,,,gdacs-events,GMB,5,,emdat-events,GUY,16,,,,
+gfd-events,ROU,1,,,,,,,glide-events,MDA,15,,,,,,,,,,,,idmc-idu-events,SLE,2,,,,,,gdacs-events,ERI,1,,emdat-events,TON,24,,,,
+gfd-events,CUB,3,,,,,,,glide-events,MAC,1,,,,,,,,,,,,idmc-idu-events,NCL,7,,,,,,gdacs-events,BHS,9,,emdat-events,STP,4,,,,
+gfd-events,SEN,1,,,,,,,glide-events,LVA,3,,,,,,,,,,,,idmc-idu-events,STP,2,,,,,,gdacs-events,MDA,2,,emdat-events,AZE,30,,,,
+gfd-events, MRT,7,,,,,,,glide-events,LUX,2,,,,,,,,,,,,idmc-idu-events,DJI,3,,,,,,gdacs-events,QAT,2,,emdat-events,SPI,8,,,,
+gfd-events, ESH,4,,,,,,,glide-events,KWT,1,,,,,,,,,,,,idmc-idu-events,SUR,1,,,,,,gdacs-events,TLS,6,,emdat-events,BTN,10,,,,
+gfd-events, SUR,2,,,,,,,glide-events,KNA,3,,,,,,,,,,,,idmc-idu-events,KWT,1,,,,,,gdacs-events,STP,2,,emdat-events,PLW,5,,,,
+gfd-events, TWN,5,,,,,,,glide-events,IRL,5,,,,,,,,,,,,idmc-idu-events,LSO,1,,,,,,gdacs-events,SUR,4,,emdat-events,TLS,10,,,,
+gfd-events,TZA,1,,,,,,,glide-events,HKG,5,,,,,,,,,,,,idmc-idu-events,COK,1,,,,,,gdacs-events,ROM,40,,emdat-events,NCL,16,,,,
+gfd-events,MAR,2,,,,,,,glide-events,GUF,1,,,,,,,,,,,,idmc-idu-events,ATA,1,,,,,,gdacs-events,KWT,2,,emdat-events,TUV,10,,,,
+gfd-events, JAM,3,,,,,,,glide-events,GLP,3,,,,,,,,,,,,idmc-idu-events,BMU,1,,,,,,gdacs-events,MON,2,,emdat-events,GUF,3,,,,
+gfd-events,SOM,1,,,,,,,glide-events,GBR,17,,,,,,,,,,,,idmc-idu-events,GUF,1,,,,,,gdacs-events,ISL,55,,emdat-events,MNP,5,,,,
+gfd-events, ERI,3,,,,,,,glide-events,FIN,1,,,,,,,,,,,,idmc-idu-events,ASM,1,,,,,,gdacs-events,SGP,2,,emdat-events,QAT,5,,,,
+gfd-events, DJI,3,,,,,,,glide-events,EST,2,,,,,,,,,,,,idmc-idu-events,MTQ,1,,,,,,gdacs-events,CCK,4,,emdat-events,WSM,15,,,,
+gfd-events,,1,,,,,,,glide-events,DMA,10,,,,,,,,,,,,idmc-idu-events,MNP,3,,,,,,gdacs-events,PLW,31,,emdat-events,KIR,6,,,,
+gfd-events,IRN,2,,,,,,,glide-events,CZE,8,,,,,,,,,,,,idmc-idu-events,DMA,1,,,,,,gdacs-events,CPV,1,,emdat-events,VIR,8,,,,
+gfd-events, BRN,2,,,,,,,glide-events,CYM,4,,,,,,,,,,,,idmc-idu-events,SWE,3,,,,,,gdacs-events,SLB,126,,emdat-events,VGB,3,,,,
+gfd-events, PHL,2,,,,,,,glide-events,BRN,44,,,,,,,,,,,,idmc-idu-events,GRL,1,,,,,,gdacs-events,IMY,2,,emdat-events,MTQ,17,,,,
+gfd-events, DZA,3,,,,,,,glide-events,BRB,6,,,,,,,,,,,,idmc-idu-events,JAM,1,,,,,,gdacs-events,   ,2815,,emdat-events,DMA,15,,,,
+gfd-events,ITA,5,,,,,,,glide-events,BMU,5,,,,,,,,,,,,,,,,,,,,gdacs-events,CXR,1,,emdat-events,TCA,10,,,,
+gfd-events, AND,5,,,,,,,glide-events,BHS,14,,,,,,,,,,,,,,,,,,,,gdacs-events,NCL,77,,emdat-events,KNA,11,,,,
+gfd-events, AZE,3,,,,,,,glide-events,BHR,2,,,,,,,,,,,,,,,,,,,,gdacs-events,PRI,13,,emdat-events,ATG,13,,,,
+gfd-events, GEO,3,,,,,,,glide-events,BEL,7,,,,,,,,,,,,,,,,,,,,gdacs-events,MTQ,6,,emdat-events,AIA,7,,,,
+gfd-events, ARM,3,,,,,,,glide-events,ATG,8,,,,,,,,,,,,,,,,,,,,gdacs-events,COK,1,,emdat-events,SGP,4,,,,
+gfd-events, IRQ,3,,,,,,,glide-events,AIA,2,,,,,,,,,,,,,,,,,,,,gdacs-events,GLP,18,,emdat-events,PYF,9,,,,
+gfd-events, KWT,3,,,,,,,glide-events,PRI,8,,,,,,,,,,,,,,,,,,,,gdacs-events,AIA,5,,emdat-events,BHR,6,,,,
+gfd-events, QAT,3,,,,,,,glide-events,WSM,9,,,,,,,,,,,,,,,,,,,,gdacs-events,DMA,9,,emdat-events,WLF,2,,,,
+gfd-events, BHR,3,,,,,,,glide-events,NIU,2,,,,,,,,,,,,,,,,,,,,gdacs-events,MSR,3,,emdat-events,TKM,4,,,,
+gfd-events,UZB,2,,,,,,,glide-events,ASM,3,,,,,,,,,,,,,,,,,,,,gdacs-events,ATG,5,,emdat-events,COK,12,,,,
+gfd-events,GUY,1,,,,,,,glide-events,---,160,,,,,,,,,,,,,,,,,,,,gdacs-events,KNA,1,,emdat-events,ASM,6,,,,
+gfd-events,ARG,4,,,,,,,glide-events,VIR,2,,,,,,,,,,,,,,,,,,,,gdacs-events,SPM,3,,emdat-events,CYM,7,,,,
+gfd-events, PRI,2,,,,,,,glide-events,COK,4,,,,,,,,,,,,,,,,,,,,gdacs-events,FRO,1,,emdat-events,ERI,10,,,,
+gfd-events, ATG,2,,,,,,,glide-events,SPI,3,,,,,,,,,,,,,,,,,,,,gdacs-events,ASM,7,,emdat-events,MSR,8,,,,
+gfd-events, GLP,2,,,,,,,glide-events,ZAR,39,,,,,,,,,,,,,,,,,,,,gdacs-events,SGS,114,,emdat-events,SCG,10,,,,
+gfd-events, DMA,2,,,,,,,glide-events,SHN,1,,,,,,,,,,,,,,,,,,,,gdacs-events,MNP,109,,emdat-events,TKL,6,,,,
+gfd-events, KOR,2,,,,,,,glide-events,ANT,1,,,,,,,,,,,,,,,,,,,,gdacs-events,ATA,11,,emdat-events,NIU,5,,,,
+gfd-events, SAU,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gdacs-events,YUG,4,,emdat-events,BMU,8,,,,
+gfd-events,ZMB,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gdacs-events,ATF,2,,emdat-events,SHN,1,,,,
+gfd-events, SMR,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gdacs-events,FSM,18,,emdat-events,ANT,5,,,,
+gfd-events, PRT,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gdacs-events,NIU,1,,emdat-events,AZO,9,,,,
+gfd-events, BEL,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gdacs-events,WLF,11,,emdat-events,BRN,1,,,,
+gfd-events, LUX,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gdacs-events,SJM,17,,emdat-events,SUN,26,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gdacs-events,-  ,5,,emdat-events,YUG,11,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gdacs-events,ESH,1,,emdat-events,YMN,2,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gdacs-events,GRL,4,,emdat-events,DFR,1,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gdacs-events,SHN,13,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gdacs-events,IOT,18,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gdacs-events,CYM,9,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gdacs-events,BVT,3,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gdacs-events,KIR,1,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gdacs-events,VIR,1,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gdacs-events,TMP,2,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gdacs-events,PCN,2,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gdacs-events,ZWB,2,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gdacs-events,ANT,1,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gdacs-events,ALG,1,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gdacs-events,RWD,2,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gdacs-events,ANG,2,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gdacs-events,SUA,1,,,,,,,,
