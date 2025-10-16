@@ -1,0 +1,15 @@
+collection,event_id,datetime,title,description
+ibtracs-events,1842298N11080,1842-10-25T03:00:00Z,Tropical Cyclone UNNAMED,Tropical Cyclone UNNAMED (1842) in the North Indian basin. Maximum intensity: tropical depression with 0 mph (0 knots) winds.
+gfd-events,gfd-event-1587,2000-02-17T00:00:00Z,Tropical cyclone,Tropical cyclone
+glide-events,glide-event-EQ-1930-000001-MMR,1930-05-05T00:00:00Z,,Collapsed houses and other buildings in Yangon and Bago Divisions.It killed approximately 500 people in Bago and 50 in Yangon.
+reference-events,,,,
+idmc-gidd-events,idmc-gidd-event-10102,2011-03-11T00:00:00Z,Japan: Tohoku Earthquake and Tsunami - Fukushima  - 11/03/2011,
+usgs-events,usgs-event-iscgem905253,1934-11-04T03:14:21.370000Z,M 6.5 - southeast of the Loyalty Islands,southeast of the Loyalty Islands
+idmc-idu-events,idmc-idu-event-1634,2017-01-01T00:00:00Z,Somalia: Drought - 01/01/2017," **Somalia: 112,448 displacements, 01 June - 30 June**    
+ According to OCHA and the Protection and Return Monitoring Network (PRMN), 112,448 people were displaced by drought in the month of June. This represents a 231 % increase from the number recorded in May.   
+ [Office for the Coordination of Humanitarian Affairs (OCHA) - 13 July 2022](https://reliefweb.int/report/somalia/drought-displacement-monitoring-dashboard-june-2022)"
+gdacs-events,gdacs-event-1581,2000-01-01T00:00:00Z,Flood in Southeastern Brazil  ,ORANGE Flood in Southeastern Brazil from: 01 Jan 2000 00 to: 01 Jan 2000 00.
+ifrcevent-events,ifrcevent-event-2759,1970-01-01T00:00:00Z,Floods East ,NA
+pdc-events,pdc-event-225dbe1a-08dc-4268-ad8e-eab974789b2a-59420,2016-04-26T17:24:00Z,Deslizamiento - FAHUM16,Description unavailable
+emdat-events,emdat-event-1900-9002-CPV,1900-01-01T00:00:00Z,Drought in Cabo Verde,"Drought in Countrywide, Cabo Verde of 1900"
+desinventar-events,desinventar-event-esp-1705/3123,1156-10-15T00:00:00Z,FLOOD in None on 1156-10-15 00:00:00+00:00,FLOOD in None: None
